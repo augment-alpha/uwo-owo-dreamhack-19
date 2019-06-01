@@ -51,7 +51,7 @@
       <a-asset-item id="frame-model" src="frame.glb"></a-asset-item>
       <!-- Static image assets -->
       <img id="uwu" src="./media/uwu.png" crossOrigin="true">
-      <img id="coffee" src="./media/coffee.png" crossOrigin="true">
+      <img id="coffee" src="coffee.png" crossOrigin="true">
     </a-assets>
 
 <!-- never let camera's position's y component be equal to zero -->
@@ -62,7 +62,10 @@
       raycaster="objects: .cantap"
       cursor="
         fuse: false;
-        rayOrigin: mouse;"></a-camera>
+        rayOrigin: mouse;">
+      
+        <a-image id="#uwu"></a-image>
+      </a-camera>
 
     <a-entity
       light="type: directional;
