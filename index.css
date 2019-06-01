@@ -2,6 +2,10 @@
   display: none;
 }
 
+#footer {
+    font-family: 'Indie Flower', cursive;
+}
+
 #container {
   position: absolute;
   max-height: 50vh;
