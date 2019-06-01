@@ -25,14 +25,14 @@ AFRAME.registerComponent('artgalleryframe', {
     }
     this.el.appendChild(frameEl)
 
-    Instantiate the element with information about the painting
+    // Instantiate the element with information about the painting
     const infoDisplay = document.createElement('a-entity')
     infoDisplay.setAttribute('info-display', {title, artist, date})
     infoDisplay.object3D.position.set(0, this.data.rotated ? -0.4 : -0.5, 0.1)
     this.el.appendChild(infoDisplay)
 
-    Use the title of the painting to fetch some info from the Wikipedia API
-    If a painting doesn't have a Wikipedia article of its own, we use the painter's article via wikiTitle
+    // Use the title of the painting to fetch some info from the Wikipedia API
+    // If a painting doesn't have a Wikipedia article of its own, we use the painter's article via wikiTitle
     const apiUrl = `https://en.wikipedia.org/w/api.php?action=query&titles=${wikiTitle || title}&format=json&prop=extracts&exintro=1&origin=*`
     let pageContent
     fetch(apiUrl, {mode: 'cors'})
@@ -59,7 +59,7 @@ AFRAME.registerComponent('artgalleryframe', {
       container.classList.remove('collapsed')
     })
 
-    showImage handles displaying and moving the virtual object to match the image
+    // showImage handles displaying and moving the virtual object to match the image
     const showImage = ({detail}) => {
       // Updating position/rotation/scale using object3D is more performant than setAttribute
       object3D.position.copy(detail.position)
@@ -70,21 +70,21 @@ AFRAME.registerComponent('artgalleryframe', {
       tapTarget.classList.add('cantap')
     }
 
-    hideImage handles hiding the virtual object when the image target is lost
+    // hideImage handles hiding the virtual object when the image target is lost
     const hideImage = () => {
       object3D.visible = false
       // Remove tapTarget from clickable objects
       tapTarget.classList.remove('cantap')
     }
 
-    These events are routed and dispatched by xrextras-generate-image-targets
+    // These events are routed and dispatched by xrextras-generate-image-targets
     this.el.addEventListener('xrimagefound', showImage)
     this.el.addEventListener('xrimageupdated', showImage)
     this.el.addEventListener('xrimagelost', hideImage)
   }
 })
 
-This component uses the A-Frame text component to display information about a painting
+// This component uses the A-Frame text component to display information about a painting
 AFRAME.registerComponent('info-display', {
   schema: {
     title: {default: ''},
@@ -114,7 +114,7 @@ AFRAME.registerComponent('info-display', {
   }
 })
 
-xrextras-generate-image-targets uses this primitive to automatically populate multiple image targets
+// xrextras-generate-image-targets uses this primitive to automatically populate multiple image targets
 AFRAME.registerPrimitive('artgallery-frame', {
   defaultComponents: {
     artgalleryframe: {},
