@@ -1,5 +1,13 @@
 {
-    "0" : "internal thoughts",
+    "0" : {
+        name:
+        text: "internal thoughts"
+        id :
+        top_left_image: 
+        action: true,
+        action_dialog: [
+        ]
+        },
     "1" :   "Friday morning: The beginning of the last day of a hellish week.",
     "2" :   "The only thing I have to look forward to today is a hackathon at a gaming convention I'm attending later; Version Alpha.",
     "3" :   "I'm a student but I also have a full-time job at a local computer repair shop.",
