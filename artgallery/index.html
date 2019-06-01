@@ -42,8 +42,10 @@
 
     <a-assets>
       <a-asset-item id="frame-model" src="frame.glb"></a-asset-item>
+      <img id="my-image" src="https://cdn.discordapp.com/attachments/584202127677718541/584415651272065034/discordicon.jpg">
     </a-assets>
-
+    <!-- Using the asset management system. -->
+    <a-image src="#my-image" width="3" height="1.5" position="0 0 0"></a-image>
     <a-camera id="camera" position="0 4 10"
       raycaster="objects: .cantap"
       cursor="fuse:false; rayOrigin:mouse;">
