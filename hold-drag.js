@@ -1,4 +1,7 @@
 // Component that uses the gesture-detector and raycaster to drag and drop an object
+//Global vars
+let count = 0;
+
 AFRAME.registerComponent('hold-drag', {
   schema: {
     cameraId: {default: 'camera'},
@@ -36,8 +39,12 @@ AFRAME.registerComponent('hold-drag', {
   fingerUp: function(event) {
     this.internalState.fingerDown = false
     //this.internalState.positionRaw = event.detail.positionRaw
+    const debug_text_dialog = document.getElementById('debug-text');
 
+    debug_text_dialog.innerHTML = "You clicked on the screen " + count + "times";
     console.log("I was clicked!")
+    count += 1;
+    
 
     this.internalState.positionRaw = null
 
