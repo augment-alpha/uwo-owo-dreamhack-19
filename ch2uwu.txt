@@ -1,0 +1,64 @@
+
+``````````````````````````````````````````````
+decide to sit next to uwu
+``````````````````````````````````````````````
+<<>> I decide to head to the back to sit next to uwu.
+<<>> He doesn’t appear to have noticed that I’ve sat next to him so I suppose it’s time to reintroduce myself.
+<<main>> “H-hey. I suppose I did see you again.”
+<<>> He glances up for a second and then his eyes fall back to his phone immediately.
+<<uwu>> “Oh. Hey <<insert coffee choice here>>-girl.”
+<<>> I blush a bit from the nickname but uwu doesn’t appear to have noticed.
+<<uwu>> “I didn’t expect to see you here. You’re into games?”
+<<main> “Yea I am.. not very popular games though. I’m mainly dating simulators and visual novels.”
+<<>> uwu giggles a bit.
+<<>> I hope I didn’t weird him out from my preferences.
+<<main>> “What do you like to play uwu?”
+<<>> uwu looks up at his phone and stares directly at me.
+<<uwu>> “I want you to guess.. what do you think I’m into?”
+<<>> What kind of games do I think uwu plays?
+--- choose neko atsume or fortnite ---
+--- if neko atsume --- +1 good point 
+<<>> uwu appears flustered at the choice I made.
+<<uwu>> “N-neko Atsume?! You think I would play a kitty collector game?”
+<<>> uwu turns red but I refuse to budge from my choice. 
+<<>> uwu avoids eye contact with me for a few seconds and then returns my gaze.
+<<uwu>> “Since you were honest with me about your game choices I’ll do the same. Y-yes you actually got it right.. I play Neko Atsume.. Don’t tell anyone ok?”
+<<>> I giggle a bit.
+<<uwu>> “W-why are you laughing?!”
+<<>> uwu is about as red as a tomato now.
+<<main>> “Didn’t you also laugh when I told you my preferences? It’s just so unexpected uwu. I’m glad we both have a weird taste in games.”
+<<>> uwu appears to have calmed down a bit and he begins to smile.
+<<uwu>> “Thanks for not judging me harshly based on it.”
+<<main>> “Oh no I am judging you. It’s a good judgement though uwu.”
+<<>> uwu smiles a wider and proceeds to show me his kitty collection. 
+*special image of uwu and his kitty collection*
+--- end neko atsume ---
+--- if 2 good choice points --- ( good end ) (needed to choose black coffee as well as neko atsume)
+<<>> uwu and I decided to team up together for the hackathon.
+<<>> We created a cute game which contained kitties, which apparently are a soft spot for uwu.
+<<uwu>> “H-hey. I had a lot of fun creating the game with you. I’m glad you didn’t judge me on my taste. It was also comforting when you were so open about yours. On top of that, you know the best coffee. We just seem similar, I would like to hang out more sometime.”
+<<>> Is he going to ask me for my number?!
+<<main>> “Y-yes I would love to. If you try a visual novel some time I’ll try Neko Atsume.”
+<<uwu>> “We’ll set up a date.”
+<<>> Wow he looked so cool when he said that.
+<<>> uwu seems cold at first but I think he’s genuinely a nice guy once he’s warmed up a bit.
+<<>> I guess I’m an uwu girl.
+<<main>> “Y-yes.”
+<<>> I smile
+<<main>> “I look forward to it uwu. Would you mind taking a photo together? I would like to remember the first game we’ve created.”
+<<uwu>> “Of course. I do as well.”
+<<>> uwu gets close to me and pulls out the camera
+--- take a picture with uwu ---
+--end good end--
+--- if fortnite --- 
+<<uwu>> “Fortnite.. that’s a pretty generic answer. I’m kind of offended haha. I thought you would come up with something more interesting for me. No I’m not into those games.”
+<<>> Oh dang. I guess I chose the wrong game.
+<<>> We spend the rest of the time sitting next together in awkward silence.
+--- end fortnite ---
+--- bad end –
+<<>> After the team building uwu disappeared.
+<<>> I have no clue where he went.
+<<>> I didn’t make a team with uwu. So I combined forces with some random people.
+<<>> We did ok. The hackathon wasn’t what I dreamed of, but I’m glad to have gotten more experience in the gaming industry.
+<<>> I didn’t really get close to anyone. I guess I’m pretty content with being alone with my computer forever.
+--end bad end (forever alone)(show user x computer)---
