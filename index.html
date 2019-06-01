@@ -50,9 +50,11 @@
       <img id="coffee" src="./media/coffee.png" alt="coffee"/>
     </a-assets>
 
+<!-- never let camera's position's y component be equal to zero -->
+<!-- - - - - - things break - - - - - -->
     <a-camera
       id="camera"
-      position="0 4 50"
+      position="0 1 30"
       raycaster="objects: .cantap"
       cursor="
         fuse: false;
