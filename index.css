@@ -5,8 +5,8 @@
 #container {
   position: absolute;
   max-height: 50vh;
-  left: 10%;
-  right: 10%;
+  left: 0%;
+  right: 0%;
   bottom: -2vh;
   border-radius: 2vh;
   padding: 1vh 2vh 3vh;
