@@ -1,0 +1,128 @@
+TAGS (characters):
+<<main>>
+<<uwu>>
+<<owo>>
+<<>> (thoughts)
+``````````````````````````````````````````````
+---ask user for player name---
+``````````````````````````````````````````````
+coffee shop (start)
+``````````````````````````````````````````````
+<<>> Friday morning: The beginning of the last day of a hellish week. The only thing I have to look forward to today is a hackathon at a gaming convention I'm attending later; Version Alpha.
+<<>> I'm a student but I also have a full-time job at a local computer repair shop.
+<<>> I've been working there for a year.... but my real passion is making games. That passion is why I'm pursuing a computer science degree at my university. Degrees don't come for free though--- (pause) hence, the full-time job. 
+<<>> My job has become a drag recently though. I just don't look forward to showing up to work anymore, it’s usually slow and I just can’t concentrate.
+<<>> So... my game plan to get me through today? -pause- Coffee.
+<<>> I love this place and fortunately today the line is insanely short. I already know my order and I am so ready for the power of coffee to turn on my brain.
+<<>> \italics\ 5 minutes pass
+<<>> .... OK .. I just want my coffee, and this is taking longer than I originally planned...
+<<>> I wonder what is taking so long. Usually this place has a good wait time.
+<<>> I notice the number of cups the baristas are writing on. The girl in front of me must have ordered for their whole office floor....
+<<>> someone behind me is saying something
+---static uwu pops up-
+<<???>> \small font (mumbling)\ "mother of god, if this fatty wouldn't have ordered 10 Frappuccino’s I would have my damn coffee already." /cell phone ringing/ "dammit I have to take this."
+<<>> He appears to be extremely grumpy. He then looks at me
+<<???>> "Hey you."
+<<main>> "Yes?"
+<<????>>"Do me a favor. Order my coffee for me."
+<<>> The stranger hands me some cash and rushes out the door to take his call.
+<<>> .....
+<<>> He didn't even tell me what he wanted...
+<<>> ....
+<<>> Time to guess.
+<<>> The cashier calls me forward. I hope I get something he likes... I order him a....
+--- select black coffee or Frappuccino---
+---if black coffee---
+<<>> I ordered him a black coffee because it seems like he's a grouchy pants that could use some caffeine. 
+<<>> I walk to the door of the coffee shop and he comes through to meet me.
+<<???>>"Hey. "
+<<>> I hand him the black coffee. He takes a sip.
+<<>> he looks delighted \good choice sound\
+---show special image of uwu drinking the coffee---
+<<???>> "Amazing.. you got exactly what I wanted... thanks. You saved me there. Drinking my coffee is one of my most favorite parts of my day.
+<<>> He shows a slight smile... after his grumpy face is wiped off he looks slightly... no wait- \bolded\ really \end bold\ handsome.
+<<main>> "Your welcome, I'm glad you like it. I just got what I usually order here."
+<<>> He smiles again.
+<<>> I feel like I’m looking at a rare expression from him.
+<<>> I'm glad I was able to make him smile.
+<<???>> "No kidding? Most people I know don't enjoy the bitterness of a plain americano. Well, <name> it was nice to meet you."
+---end of coffee selection dialogue---
+---Frappuccino---
+<<>>I ordered him a Frappuccino... with that grumpy face I think some sugar would do him some good.
+<<>> I walk to the door of the coffee shop and he comes through the door to meet me.
+<<???>>"Hey. "
+<<>> He glances at the Frappuccino in my hand and looks disgusted
+<<???>>"Is that... for me..?"
+<<>> I'm guessing I chose the wrong drink
+<<main>> "Yes, is something wrong?"
+<<???>> \small text(mumbling)\ “How can anyone start off their day with that much sugar...?”
+<<>> He takes a sip of it and gags
+<<???>> "Jesus no. I can't drink this. I guess I’ll just have to go without a coffee for the day."
+<<>> The man tosses the Frappuccino into the garbage
+<<>> Geez. What a prick
+---end of Frappuccino---
+<<>> He starts to walk out the door
+<<???>> "Wait, my name is uwu. what was yours?"
+<<main>> "<name>. It's nice to meet you."
+<<uwu>> "OK. See you around <name>."
+<<>> Unlikely. But sure, I guess.
+<<>> uwu leaves in the opposite direction
+<<>> I decide to head off to work
+``````````````````````````````````````````````
+workplace
+``````````````````````````````````````````````
+<<>> Well. I'm here. Time to get through the workday so I can go to version alpha later and actually do what I’m passionate about.
+<<>> \i\ three hours pass
+<<>> it's slow today... this is a worse wait than the coffee
+<<>> \i\ 30 minutes pass
+<<>> I. want. to. go. so. bad.
+<<>> \i\ 5 minutes pass
+<<>> *internal screaming*
+<<>> A few more minutes later a man comes rushing in with a frantic expression
+---static owo pops up---
+<<main>> "Hello. Welcome to the comet repair shop. How may I help you today?"
+<<???>> "Oh my god!!!! Thank god you're open. This is the closest place on my way to an event later. My. Computer. Won't. Turn. On."
+<<>> This guy looks as if his whole life depends on this thing.
+<<main>> "Well sir we can definitely help you with that. Let's get you checked in so we can take a look. What's your name?"
+<<>> his face brightens up when I tell him the good news
+<<???>> "It's owo!"
+<<>> Wow huh... owo... that's a pretty similar name to the guy i met this morning. uwu or owo... oh god I hope I don't mix them up.
+<<>> There appears to be some sort of drink spilled on the computer... it's especially bad near the power button.
+<<main>> "Sir.... did you spill something on it....?"
+<<owo>> "M-m-maybe... could be some g-fuel...."
+<<>> He raises his hands up to cover the blush from his face from what I'm assuming is embarrassment
+<<>> Yeah ok never mind there's no way I’m getting these two guys mixed up. Totally different personalities
+<<main>> "Well we can definitely help you out with this. Give us an hour."
+<<owo>> "T-thank you miss!"
+<<>> \i\ One hour passes
+<<main>> "Mr. owo it's ready for you."
+<<>> I demonstrate the working computer
+<<owo>> "You... are... a... LIFESAVER! Thank you so much how can I repay you???""
+<<>> this guy realizes this is a store right...
+<<main>> "... cash?"
+<<>> He blushes again, covering his face a bit. He's kind of cute for a ditz.
+<<>> He smiles as he hands me the money
+<<owo>> "Of course.. hehe... sorry about that. For real though you have saved my life.. What was your name?"
+<<main>> "<name>."
+<<owo>> "<name>. I'll remember that! Thank you for helping me today. By the way, what type of computer do you have?"
+--- select mac or pc ---
+--- if pc ---
+<<owo>> "PC??? Really?! Oh my gosh I love you, almost as much as I love my computer hehe."
+---show owo hugging his computer---
+<<owo>> "I'm so happy to hear I have something in common with my savior!! I love my PC because I’m pretty serious about gaming. Thanks again <name>!"
+<<>> I feel a bit of heat coming to my face, am I blushing? It’s nice to be praised so openly. 
+--end of pc--
+--if mac--
+<<owo>> "Mac...? oh I see... well, that's cool. I guess everyone likes something different. I like a PC because I'm pretty serious about gaming... It's cool to learn more about you though."
+<<>> I sense a little bit of disappointment behind that kind smile.
+<<>> I wonder why it matters to him so much.
+--end of mac---
+<<>> owo smiles one more time at me before heading off to wherever he's going.
+<<owo>> "<name> I'll see you around!"
+<<>> Unlikely... I'm lucky to have met two attractive guys today. Unfortunately for me I got neither of their numbers.
+<<>> Welp. That's my life for you. I should've gotten used to the idea of dying alone by now. Well... at least I'll have my career
+<<>> Two attractive guys tell me they’ll see me again… but I don’t get their numbers. Way to go <name>.
+<<>>*cries inside*
+<<>> I glance at the clock
+<<>> At least that interaction killed time... I only have one more hour at work before I can start heading to version alpha.
+--end chapter--
