@@ -74,6 +74,13 @@
   margin: 0;
 }
 
+#footer header .daddy-icon {
+  height: 80px;
+  width: 80px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
 #footer p#dialog {
   padding-top: 6%;
   padding-left: 8%;
