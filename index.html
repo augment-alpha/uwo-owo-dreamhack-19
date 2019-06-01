@@ -38,8 +38,16 @@
   </div>
 
   <div id="footer" class="footer">
-    <h1>Debug On</h1>
-    <span id="debug-text">Debug Text</span>
+    <header>
+      <h1>Uwu Daddy</h1>
+    </header>
+    
+    <p id="dialog">This is dialog content, read this line of text as we're going through the story.</p>
+    <div class="debug-container">
+        <h1>Debug On</h1>
+        <span id="debug-text">Debug Text</span>
+    </div>
+    
   </div>
 
   <a-scene
@@ -54,7 +62,7 @@
       <a-asset-item id="frame-model" src="frame.glb"></a-asset-item>
       <!-- Static image assets -->
       <img id="uwu" src="./media/uwu.png" crossOrigin="true">
-      <img id="coffee" src="./media/coffee.png" crossOrigin="true">
+      <img id="coffee" src="coffee.png" crossOrigin="true">
     </a-assets>
 
 <!-- never let camera's position's y component be equal to zero -->
@@ -65,7 +73,10 @@
       raycaster="objects: .cantap"
       cursor="
         fuse: false;
-        rayOrigin: mouse;"></a-camera>
+        rayOrigin: mouse;">
+      
+        <a-image id="#uwu"></a-image>
+      </a-camera>
 
     <a-entity
       light="type: directional;
