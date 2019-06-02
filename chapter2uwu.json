@@ -261,7 +261,8 @@
         "top_left_image": "UWUheart.png",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": ""
+        "sound_trigger": "",
+        "ar_image": "uwuneko"
         },
 
 

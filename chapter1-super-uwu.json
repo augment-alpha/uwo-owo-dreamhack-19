@@ -46,7 +46,7 @@
         },
     "5" :{
         "name": "",
-        "text":  "Degrees don't come for free though--- (pause) hence, the full-time job.",
+        "text":  "Degrees don't come for free though--- hence, the full-time job.",
         "id": "5",
         "top_left_image": "",
         "action": false,
@@ -136,7 +136,7 @@
         },
     "15" : {
         "name": "",
-        "text":  "Okay, the baristas are definitely handling a twice as many cups than there are people here. ",
+        "text":  "Okay, the baristas are definitely handling more than twice as many cups as there are people here. ",
         "id": "15",
         "top_left_image": "",
         "action": false,
@@ -313,7 +313,8 @@
         "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": ""
+        "sound_trigger": "",
+        "ar_image": "uwucoffee"
         },
     "35" : {
         "name": "",
@@ -411,7 +412,7 @@
 
     "45" : {
         "name": "",
-        "text":  "I ordered him a Frappuccino... with that grumpy face I think some sugar would do him some good.",
+        "text":  "I ordered him a Frappuccino... with that grumpy face, I think some sugar would do him some good.",
         "id": "45",
         "top_left_image": "",
         "action": false,
