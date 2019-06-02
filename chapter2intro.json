@@ -64,7 +64,7 @@
         },
     "7" :   {
         "name": "",
-        "text": "I see a staff member beckoning me forward to their table. ",,
+        "text": "I see a staff member beckoning me forward to their table. ",
         "id": "0",
         "top_left_image": "",
         "action": false,
@@ -133,7 +133,7 @@
         },
     "14" :   {
         "name": "",
-        "text": "Which one should I sit next to?"
+        "text": "Which one should I sit next to?",
         "id": "0",
         "top_left_image": "",
         "action": false,
