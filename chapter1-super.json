@@ -1,145 +1,555 @@
 {
     "0" : {
-        name:
-        text: "internal thoughts"
-        id :
-        top_left_image: 
-        action: true,
-        action_dialog: [
-        ]
+        "name": "",
+        "text": "Friday morning: The beginning of the last day of a hellish week.",
+        "id": "0",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
         },
-    "1" :   "Friday morning: The beginning of the last day of a hellish week.",
-    "2" :   "The only thing I have to look forward to today is a hackathon at a gaming convention I'm attending later; Version Alpha.",
-    "3" :   "I'm a student but I also have a full-time job at a local computer repair shop.",
-    "4" :   "I've been working there for a year.... but my real passion is making games.",
-    "5" :   "That passion is why I'm pursuing a computer science degree at my university.",
-    "6" :   "Degrees don't come for free though--- (pause) hence, the full-time job.",
-    "7" :   "My job has become a drag recently though. ",
-    "8" :   "I just don't look forward to showing up to work anymore, it's usually slow and I just can't concentrate.",
-    "9" :   "So, my game plan to get me through today?",
-    "10" :   "Coffee.",
-    "11" :   "I love this place and fortunately today the line is insanely short.",
-    "12" :   "I already know my order and I am so ready for the power of coffee to turn on my brain.",
-    "13" :   "<em>five minutes pass</em>",
-    "14" :   ".... OK .. I just want my coffee, and this is taking longer than I originally planned...",
-    "15" :   "I wonder what is taking so long. Usually this place has a good wait time.",
-    "16" :   "Okay, the baristas are definitely handling lot more cups than there are people here. ",
-    "17" :   "The girl in front of me must have ordered for her whole office floor....",
-    "18" :   "Someone behind me is saying something...",
+    "1" : {
+        "name": "",
+        "text": "The only thing I have to look forward to today is a hackathon at a gaming convention I'm attending later; Version Alpha.",
+        "id": "1",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "2" : {
+        "name": "",
+        "text":  "I'm a student but I also have a full-time job at a local computer repair shop.",
+        "id": "2",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "3" : {
+        "name": "",
+        "text":  "I've been working there for a year.... but my real passion is making games.",
+        "id": "3",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "4" : {
+        "name": "",
+        "text":  "That passion is why I'm pursuing a computer science degree at my university.",
+        "id": "4",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "5" :{
+        "name": "",
+        "text":  "Degrees don't come for free though--- (pause) hence, the full-time job.",
+        "id": "5",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "6" : {
+        "name": "",
+        "text":  "My job has become a drag recently though. ",
+        "id": "6",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "7" : {
+        "name": "",
+        "text":  "I just don't look forward to showing up to work anymore, it's usually slow and I just can't concentrate.",
+        "id": "7",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "8" : {
+        "name": "",
+        "text":  "So, my game plan to get me through today?",
+        "id": "8",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "9" : {
+        "name": "",
+        "text":  "Coffee.",
+        "id": "9",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "10" : {
+        "name": "",
+        "text":  "I love this place and fortunately today the line is insanely short.",
+        "id": "10",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "11" : {
+        "name": "",
+        "text":  "I already know my order and I am so ready for the power of coffee to turn on my brain.",
+        "id": "11",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "12" : {
+        "name": "",
+        "text":  "<em>five minutes pass</em>",
+        "id": "12",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "13" : {
+        "name": "",
+        "text":  ".... OK .. I just want my coffee, and this is taking longer than I originally planned...",
+        "id": "13",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "14" : {
+        "name": "",
+        "text":  "I wonder what is taking so long. Usually this place has a good wait time.",
+        "id": "14",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "15" : {
+        "name": "",
+        "text":  "Okay, the baristas are definitely handling a lot more cups than there are people here. ",
+        "id": "15",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "16" : {
+        "name": "",
+        "text":  "The girl in front of me must have ordered for her whole office floor....",
+        "id": "16",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "17" : {
+        "name": "",
+        "text":  "Someone behind me is saying something...",
+        "id": "17",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "18" : {
+        "name": "Stranger",
+        "text":  "<em style=\"font-size:0.7em\">\"mother of god, if this fatty wouldn't have ordered 10 Frappuccinos I would have my damn coffee already\"</em>",
+        "id": "18",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "19" : {
+        "name": "",
+        "text":  "<em>cell phone ringing<em>",
+        "id": "19",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "20" : {
+        "name": "Stranger",
+        "text":  "\"dammit I have to take this\"",
+        "id": "20",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "21" : {
+        "name": "",
+        "text":  "He seems extremely grumpy. ...and he's looking at me.....",
+        "id": "21",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "22" : {
+        "name": "Stranger",
+        "text":  "\"Hey, you\"",
+        "id": "22",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "23" : {
+        "name": "User",
+        "text":  "\"Yes?\"",
+        "id": "23",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "24" : {
+        "name": "Stranger",
+        "text":  "\"Do me a favor. Order my coffee for me.\"",
+        "id": "24",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "25" : {
+        "name": "",
+        "text":  "He just handed me some cash and ran out the door to take his call.",
+        "id": "25",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "26" : {
+        "name": "",
+        "text":  ".....",
+        "id": "26",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "27" : {
+        "name": "",
+        "text":  "He didn't even tell me what he wanted",
+        "id": "27",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "28" : {
+        "name": "",
+        "text":  ".....",
+        "id": "28",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "29" : {
+        "name": "",
+        "text":  "Time to guess, I guess.",
+        "id": "29",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "30" : {
+        "name": "",
+        "text":  "The cashier is calling me forward. I hope I get something he likes... I'm going to order him a....",
+        "id": "30",
+        "top_left_image": "",
+        "action": true,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
 
-    "19" : "Stranger speaking",
-    "20" :   "<em style=\"font-size:0.7em\">\"mother of god, if this fatty wouldn't have ordered 10 Frappuccinos I would have my damn coffee already\"</em>",
-    "21" :   "<em>cell phone ringing<em>",
-    "22" :   "\"dammit I have to take this\"",
-
-    "23" : "internal thoughts",
-    "24" :   "He seems extremely grumpy. ...and he's looking at me.....",
-
-    "25" : "Stranger speaking",
-    "26" :   "\"Hey, you\"",
-
-    "27" : "[name] speaking",
-    "28" :   "\"Yes?\"",
-    "29" : "Stranger speaking",
-    "30" :   "\"Do me a favor. Order my coffee for me.\"",
-
-    "31" : "internal thoughts",
-    "32" :   "He just handed me some cash and ran out the door to take his call.",
-    "33" :   ".....",
-    "34" :   "He didn't even tell me what he wanted",
-    "35" :   ".....",
-    "36" :   "Time to guess, I guess.",
-    "37" :   "The cashier is calling me forward. I hope I get something he likes... I'm going to order him a....",
-    "38" : "begin split between black coffee and Frappuccino",
-    "39" : "begin black coffee",
-
-    "40" : "internal thoughts",
-    "41" :   "I ordered him a black coffee because it seems like he's a grouchy pants that could use some caffeine. ",
-    "42" :   "I'm gonna just walk to the door and... there he is!",
-
-    "43" : "Stranger speaking",
-    "44" :   "\"Hey.\"",
-
-    "45" : "internal thoughts",
-    "46" :   "I hand him the black coffee. He takes a sip.",
-    "47" :   "He looks delighted",
-
-    "48" : "happy sound!",
-
-    "49" : "Stranger speaking",
-    "50" :   "\"Amazing.. you got exactly what I wanted... thanks. You saved me there.\"",
-    "51" :   "\"Drinking my coffee is one of my most favorite parts of my day.\"",
-
-    "52" : "internal thoughts",
-    "53" :   "He shows a slight smile...",
-    "54" :   "After his grumpy face is wiped off he looks slightly... no wait- <b>really</b> handsome.",
-
-    "55" : "[name] speaking",
-    "56" :   "\"You're welcome, I'm glad you like it. I just got what I usually order here.\"",
-
-    "57" : "internal thoughts",
-    "58" :   "He smiles again.",
-    "59" :   "I get the feeling this is a rare expression from him.",
-    "60" :   "I'm glad I was able to make him smile.",
-
-    "61" : "Stranger speaking",
-    "62" :   "\"No kidding? Most people I know don't enjoy the bitterness of a plain americano.\"",
-
-    "63" : "end black coffee",
 
 
 
 
-    "64" :   "",
-    "65" : "sorry, thought i needed these and then didn't",
-    "66" :   "",
+    "31" : {
+        "name": "",
+        "text":  "I ordered him a black coffee because it seems like he's a grouchy pants that could use some caffeine. ",
+        "id": "31",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "32" : {
+        "name": "",
+        "text":  "I'm gonna just walk to the door and... there he is!",
+        "id": "32",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "33" : {
+        "name": "Stranger",
+        "text": "\"Hey.\"",
+        "id": "33",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "34" : {
+        "name": "",
+        "text":  "I hand him the black coffee. He takes a sip.",
+        "id": "34",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "35" : {
+        "name": "",
+        "text":  "He looks delighted",
+        "id": "35",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": "happy"
+        },
+    "36" : {
+        "name": "Stranger",
+        "text":  "\"Amazing.. you got exactly what I wanted... thanks. You saved me there.\"",
+        "id": "36",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "37" : {
+        "name": "Stranger",
+        "text":  "\"Drinking my coffee is one of my most favorite parts of my day.\"",
+        "id": "37",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "38" : {
+        "name": "",
+        "text":  "He shows a slight smile...",
+        "id": "38",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "39" : {
+        "name": "",
+        "text":  "After his grumpy face is wiped off he looks slightly... no wait- <b>really</b> handsome.",
+        "id": "39",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "40" : {
+        "name": "User",
+        "text":  "\"You're welcome, I'm glad you like it. I just got what I usually order here.\"",
+        "id": "40",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "41" : {
+        "name": "",
+        "text":  "He smiles again.",
+        "id": "41",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "42" : {
+        "name": "",
+        "text":  "I get the feeling this is a rare expression from him.",
+        "id": "42",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "43" : {
+        "name": "",
+        "text":  "I'm glad I was able to make him smile.",
+        "id": "43",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "44" : {
+        "name": "Stranger",
+        "text":  "\"No kidding? Most people I know don't enjoy the bitterness of a plain americano.\"",
+        "id": "44",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
 
 
 
-    "67" : "begin Frappuccino",
+    "45" : {
+        "name": "",
+        "text":  "I ordered him a Frappuccino... with that grumpy face I think some sugar would do him some good.",
+        "id": "45",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "46" : {
+        "name": "",
+        "text":  "I'm gonna just walk to the door and... there he is!",
+        "id": "46",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "47" : {
+        "name": "Stranger",
+        "text":  "\"Hey.\"",
+        "id": "47",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "48" : {
+        "name": "",
+        "text":  "He glances at the Frappuccino in my hand and looks disgusted",
+        "id": "48",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "49" : {
+        "name": "",
+        "text":  "I'm guessing I chose the wrong drink",
+        "id": "49",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "50" : {
+        "name": "User",
+        "text":  "\"Yes, is something wrong?\"",
+        "id": "50",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "51" : {
+        "name": "Stranger",
+        "text":  "<em style=\"font-size:0.7em\">\"How can anyone start off their day with that much sugar...?\"</em>",
+        "id": "51",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "52" : {
+        "name": "",
+        "text":  "He takes a sip of it and gags",
+        "id": "52",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "53" : {
+        "name": "Stranger",
+        "text":  "\"Jesus no. I can't drink this. I guess I'll just have to go without a coffee for the day\"",
+        "id": "53",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "54" : {
+        "name": "",
+        "text":  "The man tosses the Frappuccino into the garbage and starts to walk out the door",
+        "id": "54",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
 
-    "68" : "internal thoughts",
-    "69" :   "I ordered him a Frappuccino... with that grumpy face I think some sugar would do him some good.",
-    "70" :   "I'm gonna just walk to the door and... there he is!",
-
-    "71" : "Stranger speaking",
-    "72" :   "\"Hey.\"",
-
-    "73" : "internal thoughts",
-    "74" :   "He glances at the Frappuccino in my hand and looks disgusted",
-    "75" :   "I'm guessing I chose the wrong drink",
-
-    "76" : "[name] speaking",
-    "77" :   "\"Yes, is something wrong?\"",
-
-    "78" : "Stranger speaking",
-    "79" :   "<em style=\"font-size:0.7em\">\"How can anyone start off their day with that much sugar...?\"</em>",
-
-    "80" : "internal thoughts",
-    "81" :   "He takes a sip of it and gags",
-
-    "82" : "Stranger speaking",
-    "83" :   "\"Jesus no. I can't drink this. I guess I'll just have to go without a coffee for the day\"",
-
-    "84" : "internal thoughts",
-    "85" :   "The man tosses the Frappuccino into the garbage and starts to walk out the door",
-
-    "86" : "end Frappuccino",
-
-    "87" : "end split",
 
 
 
-    "88" : "Stranger speaking",
-    "89" :   "\"Well, see you around... uh, what was your name?\"",
 
-    "90" : "keyboard appears, respond with your name",
-
-    "91" : "uwu speaking",
-    "92" :   "\"OK. My name is uwu. See you around, <name>\"",
-
-    "93" : "internal thoughts",
-    "94" :   "Unlikely. But sure, I guess.",
-    "95" :   "I'm gonna head off to work now",
-    "96" :   "And uwu looks to be heading in the other direction. Cool."
+    "55" : {
+        "name": "Stranger",
+        "text":  "\"Well, see you around... uh, what was your name?\"",
+        "id": "55",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "56" : {
+        "name": "UWU",
+        "text":  "\"OK. My name is uwu. See you around, User\"",
+        "id": "56",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "57" : {
+        "name": "",
+        "text":  "Unlikely. But sure, I guess.",
+        "id": "57",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "58" : {
+        "name": "",
+        "text":  "I'm gonna head off to work now",
+        "id": "58",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "59" : {
+        "name": "",
+        "text":  "And uwu looks to be heading in the other direction. Cool.",
+        "id": "59",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        }
 }
