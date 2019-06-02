@@ -313,7 +313,8 @@
         "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": ""
+        "sound_trigger": "",
+        "ar_image": "uwucoffee"
         },
     "35" : {
         "name": "",

@@ -334,7 +334,8 @@
         "top_left_image": "OWOheart.png",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": "happy"
+        "sound_trigger": "happy",
+        "ar_image": "owopc"
         },
     "37" : {
         "name": "OWO",
