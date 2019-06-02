@@ -69,15 +69,15 @@ id=44
 end of Fortnite path
 id=46
 
-"uwu and I decided to team up together for the hackathon."
+"uwu and I decided to team up together for the hackathon." - good ending overall
 begins good ending
 id=29
 
-"uwu gets close to me and pulls out the camera"
+"uwu gets close to me and pulls out the camera" good ending
 ends good ending
 id=43
 
-"After the team building uwu disappeared."
+"After the team building uwu disappeared." - bad ending
 begins bad ending
 id=47
 

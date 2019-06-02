@@ -2,7 +2,7 @@
 
 //Global vars
 let current_chapter = 0;
-let story_url = "./chapter1-super-uwu.json";
+let story_url = "./chapter2uwu.json";
 var uwu_love = 0;
 var owo_love = 0;
 
@@ -18,7 +18,7 @@ var chapter;
 
  // load chapter
  const Http = new XMLHttpRequest();
- const url='./chapter1-super-uwu.json';
+ const url=story_url;
  Http.open("GET", url);
  Http.send();
  Http.onreadystatechange=(e)=>{
@@ -187,25 +187,29 @@ const getImageChoice = function(detail, constraint) {
       setTimeout( function() { goToChapter(31); }, 1000);
       break;
     case 'frap':
-        console.log('uwu blackcoffee');
+        console.log('uwu frap');
         break;
     case 'pc':
-        console.log('uwu blackcoffee');
+        console.log('uwu pc');
+        displayChoice("You've selected a PC!");
+        setTimeout( function() { goToChapter(36); }, 1000);
         break;
     case 'mac':
-        console.log('uwu blackcoffee');
+        console.log('uwu mac');
+        displayChoice("You've selected a Mac!");
+        setTimeout( function() { goToChapter(40); }, 1000);
         break;
     case 'neko':
-        console.log('uwu blackcoffee');
+        console.log('uwu neko');
         break;
     case 'fortnite':
-        console.log('uwu blackcoffee');
+        console.log('uwu fortnite');
         break;
     case 'tseries':
-        console.log('uwu blackcoffee');
+        console.log('uwu tseries');
         break;
     case 'pewdiepie':
-        console.log('uwu blackcoffee');
+        console.log('uwu pewdiepie');
         break;
     default: 
         console.log('YOU HAVE A PROBLEM HERE');

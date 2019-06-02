@@ -121,7 +121,7 @@
         "text": "What kind of games do I think uwu plays?",
         "id": "13",
         "top_left_image": "UWUnormal.png",
-        "action": false,
+        "action": true,
         "action_dialog": [],
         "sound_trigger": ""
         },

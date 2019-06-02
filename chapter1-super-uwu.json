@@ -403,6 +403,7 @@
         "top_left_image": "UWUsmile.png",
         "action": false,
         "action_dialog": [],
+        "jump": "55",
         "sound_trigger": ""
         },
 
@@ -545,6 +546,8 @@
         "id": "59",
         "top_left_image": "",
         "action": false,
+        "end": true,
+        "link_to": "./chapter-01-owo.html",
         "action_dialog": [],
         "sound_trigger": "walk"
         }

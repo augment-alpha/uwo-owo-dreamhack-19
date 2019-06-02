@@ -6,8 +6,6 @@
 // let dialog_name_id = "dialog-name";
 // let dialog_text_id = "dialog-text";
 // let dialog_icon_id = "dialog-icon";
-
-
 // Global helper methods
 
 function isEmptyOrSpaces(str){
@@ -40,6 +38,12 @@ let changeDialogue = function(dialog) {
   if( hasDifferentName(current_name, dialog.name) ) {
     changeName(dialog.name);
   }
+
+  if( hasOption() ) {
+    console.log('This dialog has an option');
+    console.log('do something');
+  }
+
   debugText('changed dialogue to ' + dialog.text);
 }
 
@@ -63,6 +67,53 @@ let hasSound = function(dialog) {
 
 }
 
+let hasOption = function(option) {
+  if(option) {
+    return true;
+  }
+  return false;
+}
+
+let hasEnding = function(dialog) {
+  if(dialog.end === true && dialog.end != undefined ) {
+    console.log('Reached end of story');
+    return true;
+  }
+  return false;
+}
+
+let hasJump = function(dialog) {
+  if( Number.isInteger(dialog.jump) && dialog.jump != undefined ) {
+    console.log('Reached a jump');
+    goToChapter(dialog.jump);
+    return true;
+  }
+  return false;
+}
+
+let hasTransition = function(dialog) {
+  if( dialog.transition != "" && dialog.transition != undefined ) {
+    console.log('Reached a transition');
+    displayTransition(dialog.transition);
+    return true;
+  }
+  return false;
+}
+
+let displayTransition = function() {
+  document.getElementsByTagName('body')[0].setAttribute('style', 'display: none;');
+  setTimeout(function() {
+    document.getElementsByTagName('body')[0].removeAttribute('style');
+  }, 2000);
+}
+
+
+let hasOptionDialog = function(action_dialog) {
+  if(action_dialog === []) {
+    return false;
+  }
+  return true;
+}
 let hasOptionsUI = function(dialog) {
 
 }
@@ -131,17 +182,41 @@ AFRAME.registerComponent('hold-drag', {
     console.log('CHAPTER on key down is: ' );
     console.log(current_chapter);
     let dialogue = chapter[current_chapter];
-    debugText('dialogue requested');
-    debugText(dialogue);
+    if(dialogue != undefined ) {
+      debugText('dialogue requested');
+      debugText(dialogue);
+    } else if( hasEnding(chapter[current_chapter-1]) ) {
+      console.log('previous chapter had ending');
+      setTimeout(function() {
+        console.log('redirecting to ending link');
+        console.log(chapter[current_chapter-1].link_to);
+        window.location.replace(chapter[current_chapter-1].link_to);
+      },3000)
+    }
+    
 
     changeDialogue(dialogue);
-    // addParticles();
-
-    // story_text_dialog.innerHTML = dialogue.text;
-    // debug_text_dialog.innerHTML = "You clicked on the screen " + count + "times";
-    debugText('Chapter ' + current_chapter);
-    console.log("I was clicked!")
-    current_chapter += 1;
+    hasTransition(dialogue);
+    hasJump(dialogue);
+    
+    
+    if( !hasOption(chapter[current_chapter].action) ) {
+      // addParticles();
+      if( hasEnding(dialogue) ) {
+        debugText('The End');
+        setTimeout(function() {
+          console.log('redirecting to ending link');
+          console.log(dialogue.link_to);
+        },3000)
+      }
+      // story_text_dialog.innerHTML = dialogue.text;
+      // debug_text_dialog.innerHTML = "You clicked on the screen " + count + "times";
+      debugText('Chapter ' + current_chapter);
+      console.log("I was clicked!")
+      
+      current_chapter += 1;
+    }
+    
     
 
     this.internalState.positionRaw = null

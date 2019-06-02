@@ -1,0 +1,154 @@
+<!doctype html>
+<html>
+<head>
+  <title>8th Wall Web: Art Gallery</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+  <!-- using Indie Flower font from googlefonts -->
+  <link href="https://fonts.googleapis.com/css?family=Indie+Flower&display=swap" rel="stylesheet">
+
+  <!-- We've included a slightly modified version of A-Frame, which fixes some polish concerns -->
+  <script src="//cdn.8thwall.com/web/aframe/8frame-0.8.2.min.js"></script>
+  <script src="gesture-detector.js"></script>
+  <script src="hold-drag.js"></script>
+
+  <!-- XR Extras - provides utilities like load screen, almost there, and error handling.
+         See github.com/8thwall/web/xrextras -->
+  <!-- <script src="//cdn.8thwall.com/web/xrextras/xrextras.js"></script> -->
+  <script src="./xrextras/dist/xrextras.js"></script>
+  <script defer src="//cdn.8thwall.com/web/aframe/aframe-animation-component-5.1.2.min.js"></script>
+
+  <!-- 8thWall Web - Replace the app key here with your own app key -->
+  <script src="//apps.8thwall.com/xrweb?appKey=amQsNiu2531oJCX1pYsXkmTWd9zRCmG7WUXj8YerSWlZ3MnfigwIYdGBH8LNCdujsFEz0e"></script>
+
+  <!-- Particles uwu -->
+  <script src="https://unpkg.com/aframe-spe-particles-component@^1.0.4/dist/aframe-spe-particles-component.min.js"></script>
+
+
+  <!-- client code -->
+  <script src="owo.js"></script>
+  <link rel="stylesheet" type="text/css" href="index.css">
+
+</head>
+
+<body style="z-index: 0;">
+
+  <div id="instructions-1" class="hidden" style="background: url('./media/instructions-page1-simple.svg');">
+    <div class="instructions-container hidden">
+      <center><h1>Instructions</h1></center>
+      <div class="instructions-dialog">
+        
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque doloremque obcaecati perspiciatis autem voluptatem nulla pariatur error quia libero voluptas.</p>
+        
+      </div>
+      
+    </div>
+    <div class="buttons-container">
+        <div class="buttons-wrapper">
+          <img id="next-inst-2" class="button-right" src="./media/paw-button.png">
+        </div>
+      </div>
+  </div>
+
+  <div id="instructions-2" class=" hidden" style="background: url('./media/instructions-page1-simple.svg');">
+    <div class="instructions-container hidden">
+      <center><h1>Instructions</h1></center>
+      <div class="instructions-dialog">
+        
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque doloremque obcaecati perspiciatis autem voluptatem nulla pariatur error quia libero voluptas.</p>
+        
+      </div>
+      
+    </div>
+    <div class="buttons-container">
+        <div class="buttons-wrapper">
+          <img class="button-right" src="./media/paw-button.png">
+            
+            
+        </div>
+      </div>
+  </div>
+
+  <div id="container" class="collapsed" style="z-index: 6;">
+    <div class="outer">
+      <div id="closeButton" onclick="document.getElementById('container').classList.add('collapsed')">close</div>
+    </div>
+    <div id="contents"></div>
+    <div class="outer">Article provided by Wikipedia</div>
+  </div>
+
+  <div id="footer" class="footer" style="z-index: 9;">
+    <header>
+      <div id="dialog-icon" class="daddy-icon"></div>
+      <h1 id="dialog-name">Owo</h1>
+    </header>
+    
+    <p id="dialog-text">This is dialog content, read this line of text as we're going through the story.</p>
+    <div class="debug-container">
+        <h1>Debug On</h1>
+        <span id="debug-text">Debug Text</span>
+    </div>
+    
+  </div>
+
+  <a-scene
+    id="scene"
+    antialias="true"
+    xrweb="disableWorldTracking: true"
+    gesture-detector
+    xrextras-generate-image-targets="primitive: artgallery-frame"
+    xrextras-almost-there
+    xrextras-loading
+    xrextras-runtime-error>
+    <a-assets>
+      <a-asset-item id="frame-model" src="frame.glb"></a-asset-item>
+      <!-- Static image assets -->
+      <img id="owo" src="./media/owo.png" crossOrigin="true">
+      <img id="coffee" src="./media/coffee.png" crossOrigin="true">
+    </a-assets>
+
+<!-- never let camera's position's y component be equal to zero -->
+<!-- - - - - - things break - - - - - -->
+    <a-camera
+      id="camera"
+      position="0 1 20"
+      raycaster="objects: .cantap"
+      cursor="
+        fuse: false;
+        rayOrigin: mouse;">
+      
+        <a-plane id="#coffee" material="transparent:true" height="3" width="3" rotation="0 0 0" material="transparent: true" >
+            <a-animation attribute="rotation" dur="1000" to="0 0 90" repeat="indefinite" easing="linear"></a-animation>
+        </a-plane>
+      </a-camera>
+
+    <a-entity
+      light="type: directional;
+             intensity: 0.8;"
+      position="1 4.3 50"></a-entity>
+
+    
+    
+    <a-light type="ambient" intensity="1.3"></a-light>
+    <!--<a-light type="directional" intensity="3" position="1.5 2.5 0.6"></a-light>-->
+    <a-plane id="uwu-plane" src="#owo" height="5" width="5" rotation="0 0 0" material="transparent: true">
+
+        <a-animation attribute="rotation" dur="600" to="0 0 35" repeat="indefinite" easing="linear"></a-animation>
+    </a-plane>
+    <a-entity gltf-model="#frame-model" class="cantap" hold-drag scale="5.0 5.0 5.0"></a-entity>
+    
+
+    <a-entity
+      id="ground"
+      class="cantap"
+      geometry="primitive: box"
+      material="color: #ffffff; transparent: true; opacity: 0.0"
+      scale="1000 2 1000"
+      position="0 -1 0">
+    </a-entity>
+
+  </a-scene>
+  <!-- <script src="aframe-inspector.js"></script> -->
+</body>
+</html>

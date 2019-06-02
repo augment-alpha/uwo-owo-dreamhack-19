@@ -274,7 +274,7 @@
         "text":  "\"... cash?\"",
         "id": "30",
         "top_left_image": "OWOnormal.png",
-        "action": true,
+        "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
@@ -360,6 +360,7 @@
         "id": "39",
         "top_left_image": "OWOsmile.png",
         "action": false,
+        "jump": 44,
         "action_dialog": [],
         "sound_trigger": ""
         },
@@ -483,6 +484,8 @@
         "text":  "At least that interaction killed time... I only have one more hour at work before I can start heading to Version Alpha.",
         "id": "52",
         "top_left_image": "",
+        "end": true,
+        "link_to": "./chapter-02-intro.html",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""

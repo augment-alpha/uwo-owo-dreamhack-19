@@ -94,7 +94,7 @@
         "text":   "Alright I support..",
         "id": "10",
         "top_left_image": "",
-        "action": false,
+        "action": true,
         "action_dialog": ["Pewdiepie", "T-Series"],
         "sound_trigger": ""
         },
