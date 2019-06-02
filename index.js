@@ -1,3 +1,19 @@
+// Global constants
+
+var chapter;
+
+ // load chapter
+ const Http = new XMLHttpRequest();
+ const url='../chapter1.json';
+ Http.open("GET", url);
+ Http.send();
+ Http.onreadystatechange=(e)=>{
+   console.log(Http.responseText);
+   chapter = JSON.parse(Http.responseText);
+   console.log('Chapter:');
+   console.log(chapter["3"]);
+ }
+
 AFRAME.registerComponent('artgalleryframe', {
   schema: {
     name: {type: 'string'},
