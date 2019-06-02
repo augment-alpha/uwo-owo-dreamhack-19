@@ -187,25 +187,28 @@ const getImageChoice = function(detail, constraint) {
       setTimeout( function() { goToChapter(31); }, 1000);
       break;
     case 'frap':
-        console.log('uwu blackcoffee');
+        console.log('uwu frap');
+        displayChoice("You've selected Frappuccino");
+
+        setTimeout( function() { goToChapter(45); }, 1000);
         break;
     case 'pc':
-        console.log('uwu blackcoffee');
+        console.log('uwu pc');
         break;
     case 'mac':
-        console.log('uwu blackcoffee');
+        console.log('uwu mac');
         break;
     case 'neko':
-        console.log('uwu blackcoffee');
+        console.log('uwu neko');
         break;
     case 'fortnite':
-        console.log('uwu blackcoffee');
+        console.log('uwu fortnite');
         break;
     case 'tseries':
-        console.log('uwu blackcoffee');
+        console.log('uwu tseries');
         break;
     case 'pewdiepie':
-        console.log('uwu blackcoffee');
+        console.log('uwu pewdiepie');
         break;
     default: 
         console.log('YOU HAVE A PROBLEM HERE');

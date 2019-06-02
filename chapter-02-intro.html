@@ -108,7 +108,7 @@
       <a-asset-item id="frame-model" src="frame.glb"></a-asset-item>
       <!-- Static image assets -->
       <img id="owo" src="./media/owo.png" crossOrigin="true">
-      <img id="uwu" src="./media/owo.png" crossOrigin="true">
+      <img id="uwu" src="./media/uwu.png" crossOrigin="true">
       <img id="coffee" src="./media/coffee.png" crossOrigin="true">
     </a-assets>
 
@@ -136,14 +136,13 @@
     
     <a-light type="ambient" intensity="1.3"></a-light>
     <!--<a-light type="directional" intensity="3" position="1.5 2.5 0.6"></a-light>-->
-    <a-plane id="owo-plane" src="#owo" height="5" width="5" rotation="0 0 0" material="transparent: true">
+    <a-plane id="owo-plane" src="#owo" hold-drag height="8" width="8" rotation="0 0 0" material="transparent: true">
 
         <a-animation attribute="rotation" dur="600" to="0 0 35" repeat="indefinite" easing="linear"></a-animation>
     </a-plane>
-    <a-plane id="uwu-plane" src="#uwu" height="5" width="5" position="-4 0 0" rotation="0 0 0" material="transparent: true">
+    <a-plane id="uwu-plane" class="cantap" hold-drag src="#uwu" height="5" width="5" position="-4 0 0" rotation="0 0 0" material="transparent: true">
             <a-animation attribute="rotation" dur="600" to="0 0 35" repeat="indefinite" easing="linear"></a-animation>
         </a-plane>
-    <a-entity gltf-model="#frame-model" class="cantap" hold-drag scale="5.0 5.0 5.0"></a-entity>
     
 
     <a-entity

@@ -134,6 +134,10 @@ let hasEnding = function(dialog) {
 }
 
 let hasJump = function(dialog) {
+  console.log('checking jump');
+  console.log(dialog);
+  console.log(dialog.jump);
+  console.log(Number.isInteger(dialog.jump));
   if( Number.isInteger(dialog.jump) && dialog.jump != undefined ) {
     console.log('Reached a jump');
     goToChapter(dialog.jump);

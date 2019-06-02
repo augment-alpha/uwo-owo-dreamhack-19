@@ -404,7 +404,7 @@
         "top_left_image": "UWUsmile.png",
         "action": false,
         "action_dialog": [],
-        "jump": "55",
+        "jump": 55,
         "sound_trigger": ""
         },
 
