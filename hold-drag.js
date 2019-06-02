@@ -74,14 +74,44 @@ let changeIcon = function(icon) {
   let dialogIconEl = document.getElementById('dialog-icon');
   let icon_image_url = getIcon(icon);
 
-  dialogIconEl.setAttribute('style', "background: url('./media/" +icon_image_url+"') no-repeat center center cover;");
+  dialogIconEl.setAttribute('style', "background: url('./media/" +icon_image_url+"') no-repeat center center / cover;");
 
 }
 
 let getIcon = function(iconName) {
   switch(iconName) {
     case 'UWUnormal.png':
+      console.log(">>>>> NORMAL");
       return 'uwu-icon-normal.png';
+      
+      break;
+    case 'UWUsmile.png':
+      console.log(">>>>> SMILE");
+      return 'uwu-icon-smile.png'
+      break;
+    case 'UWUsad.png':
+      console.log(">>>>> SAD");
+      return 'uwu-icon-sad.png';
+      break;
+    case 'UWUheart.png':
+      console.log(">>>>> HEART");
+      return 'uwu-icon-heart.png';
+      break;
+    case 'OWOnormal.png':
+      console.log(">>>>> NORMAL");
+      return 'owo-icon-normal.png';
+      break;
+    case 'OWOsmile.png':
+      console.log(">>>>> SMILE");
+      return 'owo-icon-smile.png';
+      break;
+    case 'OWOsad.png':
+      console.log(">>>>> SAD");
+      return 'owo-icon-sad.png';
+      break;
+    case 'OWOheart.png':
+      console.log(">>>>> HEART");
+      return 'owo-icon-heart.png';
       break;
   }
   return iconName;
@@ -249,11 +279,13 @@ AFRAME.registerComponent('hold-drag', {
       debugText(dialogue);
     } else if( hasEnding(chapter[current_chapter-1]) ) {
       console.log('previous chapter had ending');
+      window.location.replace(chapter[current_chapter-1].link_to);
       setTimeout(function() {
         console.log('redirecting to ending link');
         console.log(chapter[current_chapter-1].link_to);
         window.location.replace(chapter[current_chapter-1].link_to);
-      },3000)
+      },1000);
+
     }
     
 

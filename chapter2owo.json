@@ -205,6 +205,8 @@
         "text":   "owo and I tune in to listen to the rules.",
         "id": "22",
         "top_left_image": "",
+        "end": true,
+        "link_to": "./ending-owo-good.html",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -262,6 +264,7 @@
         "text":   "owo and I tune in to listen to the orientation.",
         "id": "28",
         "top_left_image": "",
+        "jump": 29,
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -513,12 +516,14 @@
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
-        },
+    },
     "56" : {
         "name": "User",
         "text":   "\"Okay I would love to!\"",
         "id": "56",
         "top_left_image": "",
+        "end": true,
+        "link_to": "./ending-owo-good.html",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""

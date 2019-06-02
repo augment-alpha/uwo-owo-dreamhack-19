@@ -207,9 +207,13 @@ const getImageChoice = function(detail, constraint) {
         break;
     case 'tseries':
         console.log('uwu tseries');
+        displayChoice("You've selected a Tseries!");
+        setTimeout( function() { goToChapter(23); }, 1000);
         break;
     case 'pewdiepie':
         console.log('uwu pewdiepie');
+        displayChoice("You've selected a pewdiepie!");
+        setTimeout( function() { goToChapter(11); }, 1000);
         break;
     default: 
         console.log('YOU HAVE A PROBLEM HERE');

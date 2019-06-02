@@ -399,7 +399,7 @@
         "id": "43",
         "top_left_image": "UWUsmile.png",
         "end": true,
-        "link_to": "./uwu-good-ending.html",
+        "link_to": "./ending-uwu-good.html",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -479,7 +479,7 @@
         "id": "51",
         "top_left_image": "",
         "end": true,
-        "link_to": "./uwu-bad-ending.html",
+        "link_to": "./ending-uwu-bad.html",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
