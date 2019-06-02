@@ -20,7 +20,7 @@
     "2" :   {
         "name": "",
         "text": "Wow.. it's busier than I thought.",
-        "id": "0",
+        "id": "2",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -29,7 +29,7 @@
     "3" :   {
         "name": "",
         "text": "The tables are lined with power strips for us to plug in our computers or other technology.",
-        "id": "0",
+        "id": "3",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -38,7 +38,7 @@
     "4" :   {
         "name": "",
         "text": "I can't wait to create something with a team at this hackathon.",
-        "id": "0",
+        "id": "4",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -47,7 +47,7 @@
     "5" :   {
         "name": "",
         "text": "Hopefully I can forget about my failures at courtship here.",
-        "id": "0",
+        "id": "5",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -56,7 +56,7 @@
     "6" :   {
         "name": "",
         "text": "I came here alone (what's new) so I hope they have a time for me to meet other people, so I could build a team. ",
-        "id": "0",
+        "id": "6",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -65,7 +65,7 @@
     "7" :   {
         "name": "",
         "text": "I see a staff member beckoning me forward to their table. ",
-        "id": "0",
+        "id": "7",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -74,7 +74,7 @@
     "8" :   {
         "name": "",
         "text": "They're checking us in I suppose I should go give them my ID.",
-        "id": "0",
+        "id": "8",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -86,16 +86,16 @@
     "9" :   {
         "name": "",
         "text": "I finished checking in. Gosh I'm so nervous. This is my first hackathon.",
-        "id": "0",
+        "id": "9",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": ""
+        "sound_trigger": "walk"
         },
     "10" :   {
         "name": "",
         "text": "I walk over to check the schedule they have presented on a screen in the hacking area.",
-        "id": "0",
+        "id": "10",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -104,7 +104,7 @@
     "11" :   {
         "name": "",
         "text": "They have a team building exercise in conference room 2A, I'm going to head over.",
-        "id": "0",
+        "id": "11",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -116,16 +116,16 @@
     "12" :   {
         "name": "",
         "text": "As I enter the room I see two familiar faces.",
-        "id": "0",
+        "id": "12",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": ""
+        "sound_trigger": "door"
         },
     "13" :   {
         "name": "",
         "text": "owo is seated eagerly in the front row, meanwhile uwu is acting all nonchalant in the back.",
-        "id": "0",
+        "id": "13",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -134,7 +134,7 @@
     "14" :   {
         "name": "",
         "text": "Which one should I sit next to?",
-        "id": "0",
+        "id": "14",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
