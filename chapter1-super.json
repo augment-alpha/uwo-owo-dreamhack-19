@@ -136,7 +136,7 @@
         },
     "15" : {
         "name": "",
-        "text":  "Okay, the baristas are definitely handling a lot more cups than there are people here. ",
+        "text":  "Okay, the baristas are definitely handling a twice as many cups than there are people here. ",
         "id": "15",
         "top_left_image": "",
         "action": false,
@@ -545,7 +545,7 @@
         },
     "59" : {
         "name": "",
-        "text":  "And uwu looks to be heading in the other direction. Cool.",
+        "text":  "And uwu looks to be heading in the other direction.",
         "id": "59",
         "top_left_image": "",
         "action": false,

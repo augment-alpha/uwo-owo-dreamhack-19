@@ -4,7 +4,7 @@ var chapter;
 
  // load chapter
  const Http = new XMLHttpRequest();
- const url='../chapter1.json';
+ const url='./chapter1.json';
  Http.open("GET", url);
  Http.send();
  Http.onreadystatechange=(e)=>{
