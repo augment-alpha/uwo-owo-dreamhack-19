@@ -84,3 +84,38 @@ id=47
 "I didn't really get close to anyone."
 ends bad ending
 id=51
+
+# chapter2 owo
+"Alright I support.."
+begins split path for dumb YouTuber feud choices
+id=10
+
+"I knew you were a cool girl."
+begins Pewdiepie path
+id=11
+
+end of Pewdiepie path
+id=22
+
+"owo looks as if he's about to cry."
+begins T-Series path
+id=23
+
+end of T-Series path
+id=28
+
+"owo and I decided to team up together for the hackathon."
+begins good ending
+id=29
+
+"Okay I would love to!"
+ends good ending
+id=56
+
+"After the team building owo disappeared."
+begins bad ending
+id=57
+
+"I didn't really get close to anyone."
+ends bad ending
+id=61
