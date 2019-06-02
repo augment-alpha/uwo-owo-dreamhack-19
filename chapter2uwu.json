@@ -397,6 +397,8 @@
         "text": "uwu gets close to me and pulls out the camera",
         "id": "43",
         "top_left_image": "UWUsmile.png",
+        "end": true,
+        "link_to": "./uwu-good-ending.html",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -475,6 +477,8 @@
         "text": "I didn't really get close to anyone. I guess I'm pretty content with being alone with my computer forever.",
         "id": "51",
         "top_left_image": "",
+        "end": true,
+        "link_to": "./uwu-bad-ending.html",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""

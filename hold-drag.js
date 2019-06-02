@@ -63,6 +63,30 @@ let changeName = function(name) {
   
 };
 
+let hasIcon = function(icon) {
+  if(icon != undefined && icon != "") {
+    return true;
+  }
+  return false;
+}
+
+let changeIcon = function(icon) {
+  let dialogIconEl = document.getElementById('dialog-icon');
+  let icon_image_url = getIcon(icon);
+
+  dialogIconEl.setAttribute('style', "background: url('./media/" +icon_image_url+"') no-repeat center center cover;");
+
+}
+
+let getIcon = function(iconName) {
+  switch(iconName) {
+    case 'UWUnormal.png':
+      return 'uwu-icon-normal.png';
+      break;
+  }
+  return iconName;
+}
+
 let hasSound = function(dialog) {
 
 }
@@ -199,6 +223,11 @@ AFRAME.registerComponent('hold-drag', {
     hasTransition(dialogue);
     hasJump(dialogue);
     
+    if( hasIcon(dialogue.top_left_image) ) {
+      changeIcon(dialogue.top_left_image);
+      console.log("changed icon");
+      console.log(dialogue.top_left_image);
+    }
     
     if( !hasOption(chapter[current_chapter].action) ) {
       // addParticles();

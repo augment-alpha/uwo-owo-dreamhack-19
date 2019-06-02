@@ -201,9 +201,13 @@ const getImageChoice = function(detail, constraint) {
         break;
     case 'neko':
         console.log('uwu neko');
+        displayChoice("You've selected a Neko!");
+        setTimeout( function() { goToChapter(14); }, 1000);
         break;
     case 'fortnite':
         console.log('uwu fortnite');
+        displayChoice("You've selected a Fortnite!");
+        setTimeout( function() { goToChapter(44); }, 1000);
         break;
     case 'tseries':
         console.log('uwu tseries');

@@ -4,6 +4,12 @@
 
 #footer {
     font-family: 'Indie Flower', cursive;
+    border-radius: 45px;
+    background-color: #F9C7E1;
+    /* border-bottom: 0; */
+    border-bottom-left-radius: 0;
+    border: solid 4px #CC99CC;
+    border-bottom-right-radius: 0;
 }
 
 #container {
@@ -54,9 +60,14 @@
   bottom: 0;
   left: 0;
   right: 0;
-  height: 26vh;
+  height: 19vh;
   font-size: 1em;
-  background-color: white;
+}
+
+#footer #dialog-text {
+  font-size: 1.2em;
+  padding-left: 4%;
+  padding-right: 4%;
 }
 
 #footer .debug-container h1 {
@@ -80,9 +91,11 @@
 
 #footer header .daddy-icon {
   margin-top: -80px;
-  height: 80px;
-  width: 80px;
+  height: 120px;
+  width: 120px;
   background-color: #bbb;
+  background-position: center;
+  background-size: cover;
   border-radius: 50%;
   display: inline-block;
 }
@@ -146,3 +159,13 @@
   height: auto;
   right: 24px;
 }
+
+.title-screen {
+  z-index: 11;
+  position: absolute;
+  top:0;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+
