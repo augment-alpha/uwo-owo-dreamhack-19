@@ -1,26 +1,144 @@
 {
-    "0" :   "Here I am. Highlight of my week right here. I'm not lame. at. all.",
-    "1" :   "I glance around and see most of the tables full.",
-    "2" :   "Wow.. it's busier than I thought.",
-    "3" :   "The tables are lined with power strips for us to plug in our computers or other technology.",
-    "4" :   "I can't wait to create something with a team at this hackathon.",
-    "5" :   "Hopefully I can forget about my failures at courtship here.",
-    "6" :   "I came here alone (what's new) so I hope they have a time for me to meet other people, so I could build a team. ",
-    "7" :   "I see a staff member beckoning me forward to their table. ",
-    "8" :   "They're checking us in I suppose I should go give them my ID.",
+    "0" :   {
+        "name": "",
+        "text": "Here I am. Highlight of my week right here. I'm not lame. at. all.",
+        "id": "0",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "1" :   {
+        "name": "",
+        "text": "I glance around and see most of the tables full.",
+        "id": "1",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "2" :   {
+        "name": "",
+        "text": "Wow.. it's busier than I thought.",
+        "id": "2",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "3" :   {
+        "name": "",
+        "text": "The tables are lined with power strips for us to plug in our computers or other technology.",
+        "id": "3",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "4" :   {
+        "name": "",
+        "text": "I can't wait to create something with a team at this hackathon.",
+        "id": "4",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "5" :   {
+        "name": "",
+        "text": "Hopefully I can forget about my failures at courtship here.",
+        "id": "5",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "6" :   {
+        "name": "",
+        "text": "I came here alone (what's new) so I hope they have a time for me to meet other people, so I could build a team. ",
+        "id": "6",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "7" :   {
+        "name": "",
+        "text": "I see a staff member beckoning me forward to their table. ",
+        "id": "7",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "8" :   {
+        "name": "",
+        "text": "They're checking us in I suppose I should go give them my ID.",
+        "id": "8",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
 
 
 
-    "9" :   "I finished checking in. Gosh I'm so nervous. This is my first hackathon.",
-    "10" :   "I walk over to check the schedule they have presented on a screen in the hacking area.",
-    "11" :   "They have a team building exercise in conference room 2A, I'm going to head over.",
+    "9" :   {
+        "name": "",
+        "text": "I finished checking in. Gosh I'm so nervous. This is my first hackathon.",
+        "id": "9",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": "walk"
+        },
+    "10" :   {
+        "name": "",
+        "text": "I walk over to check the schedule they have presented on a screen in the hacking area.",
+        "id": "10",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "11" :   {
+        "name": "",
+        "text": "They have a team building exercise in conference room 2A, I'm going to head over.",
+        "id": "11",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
 
 
 
-    "12" :   "As I enter the room I see two familiar faces.",
-    "13" :   "owo is seated eagerly in the front row, meanwhile uwu is acting all nonchalant in the back.",
-    "14" :   "Which one should I sit next to?"
-
-
+    "12" :   {
+        "name": "",
+        "text": "As I enter the room I see two familiar faces.",
+        "id": "12",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": "door"
+        },
+    "13" :   {
+        "name": "",
+        "text": "owo is seated eagerly in the front row, meanwhile uwu is acting all nonchalant in the back.",
+        "id": "13",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "14" :   {
+        "name": "",
+        "text": "Which one should I sit next to?",
+        "id": "14",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        }
 
 }
