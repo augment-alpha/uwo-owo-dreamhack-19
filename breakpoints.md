@@ -38,6 +38,7 @@ end of PC path
 id=39
 
 "Mac...?"
+begins Mac path
 id=40
 
 end of Mac path
@@ -48,3 +49,38 @@ id=44
 
 last line of dialogue
 id=52
+
+# chapter2 uwu
+"What kind of games do I think uwu plays?"
+begins split path for possible game choices
+id=13
+
+"uwu appears flustered at the choice I made."
+begins Neko Atsume path
+id=14
+
+end of Neko Atsume path
+id=28
+
+"Fortnite.. that's a pretty generic answer"
+begins Fortnite path
+id=44
+
+end of Fortnite path
+id=46
+
+"uwu and I decided to team up together for the hackathon."
+begins good ending
+id=29
+
+"uwu gets close to me and pulls out the camera"
+ends good ending
+id=43
+
+"After the team building uwu disappeared."
+begins bad ending
+id=47
+
+"I didn't really get close to anyone."
+ends bad ending
+id=51
