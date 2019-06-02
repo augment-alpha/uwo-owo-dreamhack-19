@@ -1,68 +1,68 @@
 <<>> I decide to go to the front and sit next to owo.
 <<>> His personality was so welcoming earlier. I feel more comfortable sitting next to owo more than uwu.
 <<>> As I sit down on the chair owo looks up at me.
-<<owo>> “Oh my gosh! My savior is here!!! You’re doing the hackathon??”
-<<main>> “Yes! Is that why you brought your computer in earlier today?”
-<<owo>> “Well.. actually it’s for a more specific reason… but yes another reason is that I’m participating in the hackathon as well.”
-<<>> He’s being secretive.
-<<>> I didn’t expect that of owo, he seemed so open earlier.
-<<owo>> “Say… do you watch youtube? Who do you support, Pewdiepie or T-series?”
-<<>> .. that’s random..
+<<owo>> "Oh my gosh! My savior is here!!! You're doing the hackathon??"
+<<main>> "Yes! Is that why you brought your computer in earlier today?"
+<<owo>> "Well.. actually it's for a more specific reason, but yes another reason is that I'm participating in the hackathon as well."
+<<>> He's being secretive.
+<<>> I didn't expect that of owo, he seemed so open earlier.
+<<owo>> "Say, do you watch youtube? Who do you support, Pewdiepie or T-series?"
+<<>> .. that's random..
 <<>> Alright I support..
 --- if pewdiepie --- +1 good
-<<owo>> “I knew you were a cool girl.”
+<<owo>> "I knew you were a cool girl."
 <<>> I blush at his praise.
-<<owo>> “He lost recently to T-Series you know that right?”
-<<main>> “Yes, I’ve kept up to date with the battle.”
-<<owo>> “Well then it seems like you actually are a fan. Then I’ll tell you something not a lot of people know.”
-<<main>> “What is it?”
-<<owo>> “Martzia left him for the founder of T-Series not long after the battle was over.”
-<<>> I’m absolutely shocked by this news. Their relationships must have been on the rocks for a while.
-<<main>> “That’s awful… I hope pewdiepie is doing ok.”
-<<owo>> “I’m sure he’s doing just fine.”
+<<owo>> "He lost recently to T-Series you know that right?"
+<<main>> "Yes, I've kept up to date with the battle."
+<<owo>> "Well then it seems like you actually are a fan. Then I'll tell you something not a lot of people know."
+<<main>> "What is it?"
+<<owo>> "Martzia left him for the founder of T-Series not long after the battle was over."
+<<>> I'm absolutely shocked by this news. Their relationships must have been on the rocks for a while.
+<<main>> "That's awful, I hope pewdiepie is doing ok."
+<<owo>> "I'm sure he's doing just fine."
 <<>> The people who run Version Alpha start talking about the hackathon. 
 <<>> owo and I tune in to listen to the rules.
 --- end pewdiepie---
 ---if t series ---
-<<>> owo looks as if he’s about to cry.
-<<owo>> “You too huh… for some reason I thought you were different.”
+<<>> owo looks as if he's about to cry.
+<<owo>> "You too huh.. for some reason I thought you were different."
 <<>> What does he mean by that?
-<<owo>> “Never mind about that…”
+<<owo>> "Never mind about that.."
 <<>> The people who run Version Alpha start talking about the hackathon. 
 <<>> owo and I tune in to listen to the rules.
 --- end t series---
 ---good end ---
 <<>> owo and I decided to team up together for the hackathon.
 <<>> We created a prototype for a youtuber simulator.
-<<>> I had a great time working with owo. He’s so open and kind.
+<<>> I had a great time working with owo. He's so open and kind.
 <<>> Receiving praise from him makes me blush.
 <<>> After the hackathon owo asked to speak with me.
-<<owo>> “To tell you the truth <name>… I have a secret.”
+<<owo>> "To tell you the truth <name>, I have a secret."
 <<>> I look at him, very intrigued. I wonder if this was what he was hiding earlier. 
-<<owo>> “I’m pewdiepie undercover.”
+<<owo>> "I'm pewdiepie undercover."
 <<>> I look at him alarmed. 
 <<>> I start to feel nervous.
-<<owo>> “Hey. I’m still owo and you’re still my savior.”
+<<owo>> "Hey. I'm still owo and you're still my savior."
 <<>> That makes me feel a bit better. I see the resemblance. 
 --show owo face on pewdiepie-
-<<owo>> “That’s not all I wanted to talk to you about.”
-<<main>> “Oh? What else is there owo?”
-<<owo>> “I had a great time with you at the hackathon today. I’ve been down for a while because of some personal events. Getting to know you really cheers me up.. and well.. I would like to see more of you.”
+<<owo>> "That's not all I wanted to talk to you about."
+<<main>> "Oh? What else is there owo?"
+<<owo>> "I had a great time with you at the hackathon today. I've been down for a while because of some personal events. Getting to know you really cheers me up.. and well.. I would like to see more of you."
 <<>> Is he asking me out??
 <<>> owo is so cool and sweet. I would love to get to know him even better. It also seems like we get along well from our interaction so far. 
-<<owo>> “Well?”
+<<owo>> "Well?"
 <<>> owo looks down a bit timid and then looks back up at me.
-<<main>> “I would love to owo. We could play some games together sometime or something. “
-<<>> owo smiles. He’s so personable but he also has a bit of shy side. It’s attractive that he’s not full of himself as he’s so famous on the internet.
-<<>> I guess I’m an owo-girl.
-<<owo>> “It’s a date. Okay~ Savior lets take a photo together to celebrate our first game.”
-<<main>> “Okay I would love to!”
+<<main>> "I would love to owo. We could play some games together sometime or something. "
+<<>> owo smiles. He's so personable but he also has a bit of shy side. It's attractive that he's not full of himself as he's so famous on the internet.
+<<>> I guess I'm an owo-girl.
+<<owo>> "It's a date. Okay~ Savior lets take a photo together to celebrate our first game."
+<<main>> "Okay I would love to!"
 ---take photo with owo---
 --- end good end ---
 --- bad end ---
 <<>> After the team building owo disappeared.
 <<>> I have no clue where he went.
-<<>> I didn’t make a team with owo. So, I combined forces with some random people.
-<<>> We did ok. The hackathon wasn’t what I dreamed of, but I’m glad to have gotten more experience in the gaming industry.
-<<>> I didn’t really get close to anyone. I guess I’m pretty content with being alone with my computer forever.
+<<>> I didn't make a team with owo. So, I combined forces with some random people.
+<<>> We did ok. The hackathon wasn't what I dreamed of, but I'm glad to have gotten more experience in the gaming industry.
+<<>> I didn't really get close to anyone. I guess I'm pretty content with being alone with my computer forever.
 --end bad end (forever alone)(show user x computer)--- 
