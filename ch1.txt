@@ -95,7 +95,7 @@ Well, <name> it was nice to meet you."
 ``````````````````````````````````````````````
 workplace
 ``````````````````````````````````````````````
-<<>> Well. I'm here. Time to get through the workday so I can go to version alpha later and actually do what I�m passionate about.
+<<>> Well. I'm here. Time to get through the workday so I can go to version alpha later and actually do what I'm passionate about.
 <<>> \i\ three hours pass
 <<>> it's slow today... this is a worse wait than the coffee
 <<>> \i\ 30 minutes pass
@@ -110,7 +110,8 @@ workplace
 <<main>> "Well sir we can definitely help you with that. Let's get you checked in so we can take a look. What's your name?"
 <<>> his face brightens up when I tell him the good news
 <<???>> "It's owo!"
-<<>> Wow huh... owo... that's a pretty similar name to the guy i met this morning. uwu or owo... oh god I hope I don't mix them up.
+<<>> Wow huh... owo... that's a pretty similar name to the guy i met this morning.
+uwu or owo... oh god I hope I don't mix them up.
 <<>> There appears to be some sort of drink spilled on the computer... it's especially bad near the power button.
 <<main>> "Sir.... did you spill something on it....?"
 <<owo>> "M-m-maybe... could be some g-fuel...."
@@ -158,5 +159,5 @@ workplace
 <<>> Two attractive guys tell me they�ll see me again� but I don�t get their numbers. Way to go <name>.
 <<>>*cries inside*
 <<>> I glance at the clock
-<<>> At least that interaction killed time... I only have one more hour at work before I can start heading to version alpha.
+<<>> At least that interaction killed time... I only have one more hour at work before I can start heading to Version Alpha.
 --end chapter--

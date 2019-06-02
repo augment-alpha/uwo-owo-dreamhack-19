@@ -1,7 +1,7 @@
 {
     "0" : {
         "name": "",
-        "text":   "I decide to go to the front and sit next to owo.",
+        "text": "Well. I'm here. Time to get through the workday so I can go to version alpha later and actually do what I'm passionate about.",
         "id": "0",
         "top_left_image": "",
         "action": false,
@@ -10,7 +10,7 @@
         },
     "1" : {
         "name": "",
-        "text":   "His personality was so welcoming earlier. I feel more comfortable sitting next to owo more than uwu.",
+        "text": "<em>three hours pass</em>",
         "id": "1",
         "top_left_image": "",
         "action": false,
@@ -19,7 +19,7 @@
         },
     "2" : {
         "name": "",
-        "text":   "As I sit down on the chair owo looks up at me.",
+        "text":  "It's slow today... this is a worse wait than the coffee",
         "id": "2",
         "top_left_image": "",
         "action": false,
@@ -27,8 +27,8 @@
         "sound_trigger": ""
         },
     "3" : {
-        "name": "OWO",
-        "text":   "\"Oh my gosh! My savior is here!!! You're doing the hackathon??\"",
+        "name": "",
+        "text":  "<em>30 minutes pass</em>",
         "id": "3",
         "top_left_image": "",
         "action": false,
@@ -36,17 +36,17 @@
         "sound_trigger": ""
         },
     "4" : {
-        "name": "User",
-        "text":   "\"Yes! Is that why you brought your computer in earlier today?\"",
+        "name": "",
+        "text":  "I. want. to. go. so. bad.",
         "id": "4",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
-    "5" : {
-        "name": "OWO",
-        "text":   "\"Well.. actually it's for a more specific reason, but yes another reason is that I'm participating in the hackathon as well.\"",
+    "5" :{
+        "name": "",
+        "text":  "<em>5 minutes pass</em>",
         "id": "5",
         "top_left_image": "",
         "action": false,
@@ -55,7 +55,7 @@
         },
     "6" : {
         "name": "",
-        "text":   "owo is being secretive.",
+        "text":  "<b><em style=\"font-size:2.0em\">internally screaming</em></b>",
         "id": "6",
         "top_left_image": "",
         "action": false,
@@ -64,7 +64,7 @@
         },
     "7" : {
         "name": "",
-        "text":   "I didn't expect that of owo, he seemed so open earlier.",
+        "text":  "A few more minutes later a man comes rushing in with a frantic expression",
         "id": "7",
         "top_left_image": "",
         "action": false,
@@ -72,8 +72,8 @@
         "sound_trigger": ""
         },
     "8" : {
-        "name": "OWO",
-        "text":   "\"Say, do you watch youtube? Who do you support, Pewdiepie or T-series?\"",
+        "name": "User",
+        "text":  "\"Hello. Welcome to the comet repair shop. How may I help you today?\"",
         "id": "8",
         "top_left_image": "",
         "action": false,
@@ -81,8 +81,8 @@
         "sound_trigger": ""
         },
     "9" : {
-        "name": "",
-        "text":   ".. that's random..",
+        "name": "???",
+        "text":  "\"Oh my god!!!! Thank god you're open. This is the closest place on my way to an event later. My. Computer. Won't. Turn. On.\"",
         "id": "9",
         "top_left_image": "",
         "action": false,
@@ -91,28 +91,25 @@
         },
     "10" : {
         "name": "",
-        "text":   "Alright I support..",
+        "text":  "This guy looks as if his whole life depends on this thing.",
         "id": "10",
         "top_left_image": "",
         "action": false,
-        "action_dialog": ["Pewdiepie", "T-Series"],
+        "action_dialog": [],
         "sound_trigger": ""
         },
-
-
-
     "11" : {
-        "name": "OWO",
-        "text":   "\"I knew you were a cool girl.\"",
+        "name": "User",
+        "text":  "\"Well sir we can definitely help you with that. Let's get you checked in so we can take a look. What's your name?\"",
         "id": "11",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": "happy"
+        "sound_trigger": ""
         },
     "12" : {
         "name": "",
-        "text":   "I blush at his praise.",
+        "text":  "His face brightens up when I tell him the good news",
         "id": "12",
         "top_left_image": "",
         "action": false,
@@ -121,7 +118,7 @@
         },
     "13" : {
         "name": "OWO",
-        "text":   "\"He lost recently to T-Series you know that right?\"",
+        "text":  "\"It's owo!\"",
         "id": "13",
         "top_left_image": "",
         "action": false,
@@ -129,8 +126,8 @@
         "sound_trigger": ""
         },
     "14" : {
-        "name": "User",
-        "text":   "\"Yes, I've kept up to date with the battle.\"",
+        "name": "",
+        "text":  "Wow huh... owo... that's a pretty similar name to the guy i met this morning. ",
         "id": "14",
         "top_left_image": "",
         "action": false,
@@ -138,8 +135,8 @@
         "sound_trigger": ""
         },
     "15" : {
-        "name": "OWO",
-        "text":   "\"Well then it seems like you actually are a fan. Then I'll tell you something not a lot of people know.\"",
+        "name": "",
+        "text":  "uwu or owo... oh god I hope I don't mix them up. ",
         "id": "15",
         "top_left_image": "",
         "action": false,
@@ -147,8 +144,8 @@
         "sound_trigger": ""
         },
     "16" : {
-        "name": "User",
-        "text":   "\"What is it?\"",
+        "name": "",
+        "text":  "There appears to be some sort of drink spilled on the computer... it's especially bad near the power button.",
         "id": "16",
         "top_left_image": "",
         "action": false,
@@ -156,8 +153,8 @@
         "sound_trigger": ""
         },
     "17" : {
-        "name": "OWO",
-        "text":   "\"Martzia broke the engagement and left him for the founder of T-Series not long after the battle was over.\"",
+        "name": "User",
+        "text":  "\"Sir.... did you spill something on it....?\"",
         "id": "17",
         "top_left_image": "",
         "action": false,
@@ -165,8 +162,8 @@
         "sound_trigger": ""
         },
     "18" : {
-        "name": "",
-        "text":   "I'm absolutely shocked by this news. Their relationships must have been on the rocks for a while.",
+        "name": "OWO",
+        "text":  "\"M-m-maybe... could be some g-fuel....\"",
         "id": "18",
         "top_left_image": "",
         "action": false,
@@ -174,8 +171,8 @@
         "sound_trigger": ""
         },
     "19" : {
-        "name": "User",
-        "text":   "\"That's awful, I hope pewdiepie is doing ok.\"",
+        "name": "",
+        "text":  "He raises his hands up to cover the blush from his face from what I'm assuming is embarrassment.",
         "id": "19",
         "top_left_image": "",
         "action": false,
@@ -183,8 +180,8 @@
         "sound_trigger": ""
         },
     "20" : {
-        "name": "OWO",
-        "text":   "\"I'm sure he's doing just fine.\"",
+        "name": "",
+        "text":  "Yeah ok never mind there's no way I'm getting these two guys mixed up.",
         "id": "20",
         "top_left_image": "",
         "action": false,
@@ -192,8 +189,8 @@
         "sound_trigger": ""
         },
     "21" : {
-        "name": "",
-        "text":   "The people who run Version Alpha start talking about the hackathon.",
+        "name": "User",
+        "text":  "\"Well we can definitely help you out with this. Give us an hour.\"",
         "id": "21",
         "top_left_image": "",
         "action": false,
@@ -201,20 +198,17 @@
         "sound_trigger": ""
         },
     "22" : {
-        "name": "",
-        "text":   "owo and I tune in to listen to the rules.",
+        "name": "OWO",
+        "text":  "\"T-thank you miss!\"",
         "id": "22",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
-
-
-
     "23" : {
-        "name": "",
-        "text":   "owo looks as if he's about to cry.",
+        "name": "User",
+        "text":  "\"Yes?\"",
         "id": "23",
         "top_left_image": "",
         "action": false,
@@ -222,8 +216,8 @@
         "sound_trigger": ""
         },
     "24" : {
-        "name": "OWO",
-        "text":   "\"You too huh.. for some reason I thought you were different.\"",
+        "name": "",
+        "text":  "<em>One hour later</em>",
         "id": "24",
         "top_left_image": "",
         "action": false,
@@ -231,8 +225,8 @@
         "sound_trigger": ""
         },
     "25" : {
-        "name": "",
-        "text":   "What does he mean by that?",
+        "name": "User",
+        "text":  "\"Mr. owo it's ready for you.\"",
         "id": "25",
         "top_left_image": "",
         "action": false,
@@ -240,8 +234,8 @@
         "sound_trigger": ""
         },
     "26" : {
-        "name": "OWO",
-        "text":   "\"Forget it..\"",
+        "name": "",
+        "text":  "Let's just turn it on to show him his working computer...",
         "id": "26",
         "top_left_image": "",
         "action": false,
@@ -250,7 +244,7 @@
         },
     "27" : {
         "name": "",
-        "text":   "The people who run Version Alpha start talking about the hackathon. ",
+        "text":  "The computer boots successfully, just like it did five minutes ago.",
         "id": "27",
         "top_left_image": "",
         "action": false,
@@ -258,20 +252,17 @@
         "sound_trigger": ""
         },
     "28" : {
-        "name": "",
-        "text":   "owo and I tune in to listen to the orientation.",
+        "name": "OWO",
+        "text":  "\"You... are... a... LIFESAVER! Thank you so much how can I repay you???\"",
         "id": "28",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
-    },
-
-
-
+        },
     "29" : {
         "name": "",
-        "text":   "owo and I decided to team up together for the hackathon.",
+        "text":  "This guy realizes this is a store, right...?",
         "id": "29",
         "top_left_image": "",
         "action": false,
@@ -279,17 +270,17 @@
         "sound_trigger": ""
         },
     "30" : {
-        "name": "",
-        "text":   "We created a prototype for a youtuber simulator.",
+        "name": "User",
+        "text":  "\"... cash?\"",
         "id": "30",
         "top_left_image": "",
-        "action": false,
+        "action": true,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "31" : {
         "name": "",
-        "text":   "I had a great time working with owo. He's so open and kind.",
+        "text":  "He blushes again, covering his face a bit. He's kind of cute for a ditz.",
         "id": "31",
         "top_left_image": "",
         "action": false,
@@ -298,7 +289,7 @@
         },
     "32" : {
         "name": "",
-        "text":   "Receiving praise from him makes me blush.",
+        "text":  "He smiles as he hands me the money",
         "id": "32",
         "top_left_image": "",
         "action": false,
@@ -306,8 +297,8 @@
         "sound_trigger": ""
         },
     "33" : {
-        "name": "",
-        "text":   "After the hackathon owo asked to speak with me.",
+        "name": "OWO",
+        "text": "\"Of course.. hehe... sorry about that. For real though you have saved my life.. What was your name?\"",
         "id": "33",
         "top_left_image": "",
         "action": false,
@@ -315,8 +306,8 @@
         "sound_trigger": ""
         },
     "34" : {
-        "name": "OWO",
-        "text":   "\"To tell you the truth User, I have a secret.\"",
+        "name": "User",
+        "text":  "\"User\"",
         "id": "34",
         "top_left_image": "",
         "action": false,
@@ -324,17 +315,21 @@
         "sound_trigger": ""
         },
     "35" : {
-        "name": "",
-        "text":   "I look at him, very intrigued. I wonder if this was what he was hiding earlier. ",
+        "name": "OWO",
+        "text":  "\"User. I'll remember that! Thank you for helping me today. By the way, what type of computer do you have?\"",
         "id": "35",
         "top_left_image": "",
-        "action": false,
-        "action_dialog": [],
+        "action": true,
+        "action_dialog": ["PC", "Mac"],
         "sound_trigger": ""
         },
+
+
+
+
     "36" : {
         "name": "OWO",
-        "text":   "\"I'm pewdiepie undercover.\"",
+        "text":  "\"PC??? Really?! Oh my gosh I love you, almost as much as I love my computer hehe.\"",
         "id": "36",
         "top_left_image": "",
         "action": false,
@@ -342,8 +337,8 @@
         "sound_trigger": ""
         },
     "37" : {
-        "name": "",
-        "text":   "I look at him alarmed.",
+        "name": "OWO",
+        "text":  "\"I'm so happy to hear I have something in common with my savior!!",
         "id": "37",
         "top_left_image": "",
         "action": false,
@@ -351,8 +346,8 @@
         "sound_trigger": ""
         },
     "38" : {
-        "name": "",
-        "text":   "I start to feel nervous. I look down at my palms.",
+        "name": "OWO",
+        "text":  "I love my PC because I'm pretty serious about gaming. Thanks again User!\"",
         "id": "38",
         "top_left_image": "",
         "action": false,
@@ -360,8 +355,8 @@
         "sound_trigger": ""
         },
     "39" : {
-        "name": "OWO",
-        "text":   "\"Hey.\"",
+        "name": "",
+        "text":  "I feel a bit of heat coming to my face. Am I blushing? It's nice to be praised so openly.",
         "id": "39",
         "top_left_image": "",
         "action": false,
@@ -369,8 +364,8 @@
         "sound_trigger": ""
         },
     "40" : {
-        "name": "",
-        "text":   "He interupts my runaway thoughts.",
+        "name": "OWO",
+        "text":  "\"Mac...? oh I see... well, that's cool. I guess everyone likes something different.",
         "id": "40",
         "top_left_image": "",
         "action": false,
@@ -379,7 +374,7 @@
         },
     "41" : {
         "name": "OWO",
-        "text":   "\"I'm still owo and you're still my savior.\"",
+        "text":  "I like a PC because I'm pretty serious about gaming... It's cool to learn more about you though.\"",
         "id": "41",
         "top_left_image": "",
         "action": false,
@@ -388,26 +383,29 @@
         },
     "42" : {
         "name": "",
-        "text":   "That makes me feel a bit better. I see the resemblance.",
+        "text":  "I sense a little bit of disappointment behind that kind smile.",
         "id": "42",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
-
     "43" : {
-        "name": "OWO",
-        "text":   "\"That's not all I wanted to talk to you about.\"",
+        "name": "",
+        "text":  "I wonder why it matters to him so much.",
         "id": "43",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
+
+
+
+
     "44" : {
-        "name": "User",
-        "text":   "\"Oh? What else is there owo?\"",
+        "name": "",
+        "text":  "owo smiles one more time at me before heading off to wherever he's going.",
         "id": "44",
         "top_left_image": "",
         "action": false,
@@ -415,8 +413,8 @@
         "sound_trigger": ""
         },
     "45" : {
-        "name": "OWO",
-        "text":   "\"I had a great time with you at the hackathon today. I've been down for a while because of some personal events.\"",
+        "name": "",
+        "text":  "\"I'll see you around, User!\"",
         "id": "45",
         "top_left_image": "",
         "action": false,
@@ -425,7 +423,7 @@
         },
     "46" : {
         "name": "",
-        "text":   "Is he asking me out??",
+        "text":  "Unlikely... I'm lucky to have met two attractive guys today. Unfortunately for me I got neither of their numbers.",
         "id": "46",
         "top_left_image": "",
         "action": false,
@@ -433,8 +431,8 @@
         "sound_trigger": ""
         },
     "47" : {
-        "name": "OWO",
-        "text":   "\" Getting to know you really cheers me up.. and well.. I would like to see you more.\"",
+        "name": "",
+        "text":  "Welp. That's my life for you. I should've gotten used to the idea of dying alone by now. ",
         "id": "47",
         "top_left_image": "",
         "action": false,
@@ -443,7 +441,7 @@
         },
     "48" : {
         "name": "",
-        "text":   "Is he asking me out??",
+        "text":  "Well... at least I'll have my career",
         "id": "48",
         "top_left_image": "",
         "action": false,
@@ -452,7 +450,7 @@
         },
     "49" : {
         "name": "",
-        "text":   "owo is so cool and sweet. I would love to get to know him even better. It also seems like we get along well from our interaction so far. ",
+        "text":  "Two attractive guys tell me they'll see me again... but I don't get their numbers. Way to go User.",
         "id": "49",
         "top_left_image": "",
         "action": false,
@@ -460,8 +458,8 @@
         "sound_trigger": ""
         },
     "50" : {
-        "name": "OWO",
-        "text":   "\"Well?\"",
+        "name": "",
+        "text":  "<b><em style=\"font-size:2.0em\">cries inside</em></b>",
         "id": "50",
         "top_left_image": "",
         "action": false,
@@ -470,7 +468,7 @@
         },
     "51" : {
         "name": "",
-        "text":   "owo looks down a bit timid and then looks back up at me.",
+        "text":  "I glance at the clock",
         "id": "51",
         "top_left_image": "",
         "action": false,
@@ -478,96 +476,12 @@
         "sound_trigger": ""
         },
     "52" : {
-        "name": "User",
-        "text":   "\"I would love to owo. We could play some games together sometime or something.\"",
+        "name": "",
+        "text":  "At least that interaction killed time... I only have one more hour at work before I can start heading to Version Alpha.",
         "id": "52",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
-        },
-    "53" : {
-        "name": "",
-        "text":   "owo smiles. He's so personable but he also has a bit of shy side. It's attractive that he's not full of himself as he's so famous on the internet.",
-        "id": "53",
-        "top_left_image": "",
-        "action": false,
-        "action_dialog": [],
-        "sound_trigger": ""
-        },
-    "54" : {
-        "name": "",
-        "text":   "I guess I'm an owo-girl.",
-        "id": "54",
-        "top_left_image": "",
-        "action": false,
-        "action_dialog": [],
-        "sound_trigger": ""
-        },
-    "55" : {
-        "name": "OWO",
-        "text":   "\"It's a date. Okay~ Savior lets take a photo together to celebrate our first game.\"",
-        "id": "55",
-        "top_left_image": "",
-        "action": false,
-        "action_dialog": [],
-        "sound_trigger": ""
-        },
-    "56" : {
-        "name": "User",
-        "text":   "\"Okay I would love to!\"",
-        "id": "56",
-        "top_left_image": "",
-        "action": false,
-        "action_dialog": [],
-        "sound_trigger": ""
-        },
-
-
-
-    "57" : {
-        "name": "",
-        "text":   "After the team building owo disappeared.",
-        "id": "57",
-        "top_left_image": "",
-        "action": false,
-        "action_dialog": [],
-        "sound_trigger": ""
-        },
-    "58" : {
-        "name": "",
-        "text":   "I have no clue where he went.",
-        "id": "58",
-        "top_left_image": "",
-        "action": false,
-        "action_dialog": [],
-        "sound_trigger": ""
-        },
-    "59" : {
-        "name": "",
-        "text":   "I didn't make a team with owo. So, I combined forces with some random people.",
-        "id": "59",
-        "top_left_image": "",
-        "action": false,
-        "action_dialog": [],
-        "sound_trigger": ""
-        },
-    "60" : {
-        "name": "",
-        "text":   "We did ok. The hackathon wasn't what I dreamed of, but I'm glad to have gotten more experience in the gaming industry.",
-        "id": "60",
-        "top_left_image": "",
-        "action": false,
-        "action_dialog": [],
-        "sound_trigger": ""
-        },
-    "61" : {
-      "name": "",
-      "text":   "I didn't really get close to anyone. I guess I'm pretty content with being alone with my computer forever.",
-      "id": "61",
-      "top_left_image": "",
-      "action": false,
-      "action_dialog": [],
-      "sound_trigger": ""
-      }
+        }
 }
