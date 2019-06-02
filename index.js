@@ -1,10 +1,18 @@
 // Global constants
 
+//Global vars
+let current_chapter = 0;
+
+let debug_text_dialog_id = "debug-text";
+let dialog_name_id = "dialog-name";
+let dialog_text_id = "dialog-text";
+let dialog_icon_id = "dialog-icon";
+
 var chapter;
 
  // load chapter
  const Http = new XMLHttpRequest();
- const url='./chapter1.json';
+ const url='./chapter1-super-uwu.json';
  Http.open("GET", url);
  Http.send();
  Http.onreadystatechange=(e)=>{
@@ -78,6 +86,12 @@ AFRAME.registerComponent('artgalleryframe', {
     // showImage handles displaying and moving the virtual object to match the image
     const showImage = ({detail}) => {
       // Updating position/rotation/scale using object3D is more performant than setAttribute
+
+      getImageChoice(detail);
+
+      console.log("Detail: ");
+      console.log(detail);
+
       object3D.position.copy(detail.position)
       object3D.quaternion.copy(detail.rotation)
       object3D.scale.set(detail.scale, detail.scale, detail.scale)
@@ -142,3 +156,66 @@ AFRAME.registerPrimitive('artgallery-frame', {
     metadata: 'artgalleryframe.metadata',
   }
 })
+
+const kawaii_wiggle = function(el_id) {
+  // get element
+  
+};
+
+const cancelInstructions = function() {
+  const instruction_1 = document.getElementById('instructions-1');
+  instruction_1.setAttribute('style', 'display: none;');
+
+  const instruction_2 = document.getElementById('instructions-2');
+  instruction_2.setAttribute('style', 'display: none;');
+}
+
+const getImageChoice = function(detail) {
+  console.log('image choice: ' + detail.metadata.key);
+
+  switch(detail.metadata.key) {
+    case 'blackcoffee':
+      console.log('uwu blackcoffee');
+      displayChoice("You've selected Black Coffee");
+
+      setTimeout( function() { goToChapter(27); }, 1000);
+      break;
+    case 'frap':
+        console.log('uwu blackcoffee');
+        break;
+    case 'pc':
+        console.log('uwu blackcoffee');
+        break;
+    case 'mac':
+        console.log('uwu blackcoffee');
+        break;
+    case 'neko':
+        console.log('uwu blackcoffee');
+        break;
+    case 'fortnite':
+        console.log('uwu blackcoffee');
+        break;
+    case 'tseries':
+        console.log('uwu blackcoffee');
+        break;
+    case 'pewdiepie':
+        console.log('uwu blackcoffee');
+        break;
+    default: 
+        console.log('YOU HAVE A PROBLEM HERE');
+        console.log('no selection');
+  }
+
+
+}
+
+const displayChoice = function(choiceText) {
+  const dialog = document.getElementById(dialog_text_id);
+  dialog.innerHTML = choiceText;
+};
+
+const goToChapter = function(id) {
+  current_chapter = id;
+  changeDialogue(chapter[id]);
+  console.log('changed chapter to : ' + current_chapter);
+}
