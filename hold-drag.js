@@ -87,12 +87,39 @@ let getIcon = function(iconName) {
   return iconName;
 }
 
+let getARImage = function(arimage) {
+  switch(arimage) {
+    case 'uwucoffee':
+      return 'uwu-coffee';
+      break;
+    case 'owopc': 
+      return 'owo-pc';
+      break;
+    case 'uwuneko':
+      return 'uwu-neko';
+      break;
+    case 'owopewdiepie':
+      return 'owo-pewdiepie';
+      break;
+  }
+  return 'nothing';
+}
+
 let hasSound = function(dialog) {
 
 }
 
 let hasOption = function(option) {
   if(option) {
+    return true;
+  }
+  return false;
+}
+
+let hasARImage = function(dialog) {
+  if(dialog.ar_image != undefined) {
+    console.log('ar image found ');
+    console.log(dialog.ar_image);
     return true;
   }
   return false;
@@ -137,6 +164,13 @@ let hasOptionDialog = function(action_dialog) {
     return false;
   }
   return true;
+}
+
+let changeARImage = function(image) {
+  let arImage = document.getElementById('uwu-plane');
+  arImage.setAttribute('src', '#' + getARImage(image));
+  console.log('swapped images');
+
 }
 let hasOptionsUI = function(dialog) {
 
@@ -223,6 +257,10 @@ AFRAME.registerComponent('hold-drag', {
     hasTransition(dialogue);
     hasJump(dialogue);
     
+    if( hasARImage(dialogue) ) {
+      console.log('swapping ar image');
+      changeARImage(dialogue.ar_image);
+    }
     if( hasIcon(dialogue.top_left_image) ) {
       changeIcon(dialogue.top_left_image);
       console.log("changed icon");
