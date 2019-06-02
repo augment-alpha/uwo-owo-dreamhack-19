@@ -1,0 +1,490 @@
+{
+    "0" : {
+        "name": "",
+        "text": "Well. I'm here. Time to get through the workday so I can go to version alpha later and actually do what I'm passionate about.",
+        "id": "0",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "1" : {
+        "name": "",
+        "text": "<em>three hours pass</em>",
+        "id": "1",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "2" : {
+        "name": "",
+        "text":  "It's slow today... this is a worse wait than the coffee",
+        "id": "2",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "3" : {
+        "name": "",
+        "text":  "<em>30 minutes pass</em>",
+        "id": "3",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "4" : {
+        "name": "",
+        "text":  "I. want. to. go. so. bad.",
+        "id": "4",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "5" :{
+        "name": "",
+        "text":  "<em>5 minutes pass</em>",
+        "id": "5",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "6" : {
+        "name": "",
+        "text":  "<b><em style=\"font-size:2.0em\">internally screaming</em></b>",
+        "id": "6",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "7" : {
+        "name": "",
+        "text":  "A few more minutes later a man comes rushing in with a frantic expression",
+        "id": "7",
+        "top_left_image": "OWOsad.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": "door"
+        },
+    "8" : {
+        "name": "User",
+        "text":  "\"Hello. Welcome to the comet repair shop. How may I help you today?\"",
+        "id": "8",
+        "top_left_image": "OWOsad.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "9" : {
+        "name": "???",
+        "text":  "\"Oh my god!!!! Thank god you're open. This is the closest place on my way to an event later. My. Computer. Won't. Turn. On.\"",
+        "id": "9",
+        "top_left_image": "OWOsad.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "10" : {
+        "name": "",
+        "text":  "This guy looks as if his whole life depends on this thing.",
+        "id": "10",
+        "top_left_image": "OWOsad.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "11" : {
+        "name": "User",
+        "text":  "\"Well sir we can definitely help you with that. Let's get you checked in so we can take a look. What's your name?\"",
+        "id": "11",
+        "top_left_image": "OWOsad.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "12" : {
+        "name": "",
+        "text":  "His face brightens up when I tell him the good news",
+        "id": "12",
+        "top_left_image": "OWOsmile.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "13" : {
+        "name": "OWO",
+        "text":  "\"It's owo!\"",
+        "id": "13",
+        "top_left_image": "OWOsmile.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "14" : {
+        "name": "",
+        "text":  "Wow huh... owo... that's a pretty similar name to the guy i met this morning. ",
+        "id": "14",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "15" : {
+        "name": "",
+        "text":  "uwu or owo... oh god I hope I don't mix them up. ",
+        "id": "15",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "16" : {
+        "name": "",
+        "text":  "There appears to be some sort of drink spilled on the computer... it's especially bad near the power button.",
+        "id": "16",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "17" : {
+        "name": "User",
+        "text":  "\"Sir.... did you spill something on it....?\"",
+        "id": "17",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "18" : {
+        "name": "OWO",
+        "text":  "\"M-m-maybe... could be some G-Fuel....\"",
+        "id": "18",
+        "top_left_image": "OWOshy.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "19" : {
+        "name": "",
+        "text":  "He raises his hands up to cover the blush from his face from what I'm assuming is embarrassment.",
+        "id": "19",
+        "top_left_image": "OWOshy.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "20" : {
+        "name": "",
+        "text":  "Yeah ok never mind there's no way I'm getting these two guys mixed up.",
+        "id": "20",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "21" : {
+        "name": "User",
+        "text":  "\"Well we can definitely help you out with this. Give us an hour.\"",
+        "id": "21",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "22" : {
+        "name": "OWO",
+        "text":  "\"T-thank you miss!\"",
+        "id": "22",
+        "top_left_image": "OWOsmile.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "23" : {
+        "name": "User",
+        "text":  "\"Of course.\"",
+        "id": "23",
+        "top_left_image": "OWOsmile.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "24" : {
+        "name": "",
+        "text":  "<em>One hour later</em>",
+        "id": "24",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "25" : {
+        "name": "User",
+        "text":  "\"Mr. owo it's ready for you.\"",
+        "id": "25",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "26" : {
+        "name": "",
+        "text":  "Let's just turn it on to show him his working computer...",
+        "id": "26",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "27" : {
+        "name": "",
+        "text":  "The computer boots successfully.",
+        "id": "27",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "28" : {
+        "name": "OWO",
+        "text":  "\"You... are... a... LIFESAVER! Thank you so much how can I repay you???\"",
+        "id": "28",
+        "top_left_image": "OWOheart.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "29" : {
+        "name": "",
+        "text":  "This guy realizes this is a store, right...?",
+        "id": "29",
+        "top_left_image": "OWOheart.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "30" : {
+        "name": "User",
+        "text":  "\"... cash?\"",
+        "id": "30",
+        "top_left_image": "OWOnormal.png",
+        "action": true,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "31" : {
+        "name": "",
+        "text":  "He blushes again, covering his face a bit. He's kind of cute for a ditz.",
+        "id": "31",
+        "top_left_image": "OWOshy.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "32" : {
+        "name": "",
+        "text":  "He smiles as he hands me the money",
+        "id": "32",
+        "top_left_image": "OWOsmile.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "33" : {
+        "name": "OWO",
+        "text": "\"Of course.. hehe... sorry about that. For real though you have saved my life.. What was your name?\"",
+        "id": "33",
+        "top_left_image": "OWOshy.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "34" : {
+        "name": "User",
+        "text":  "\"User\"",
+        "id": "34",
+        "top_left_image": "OWOshy.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "35" : {
+        "name": "OWO",
+        "text":  "\"User. I'll remember that! Thank you for helping me today. By the way, what type of computer do you have?\"",
+        "id": "35",
+        "top_left_image": "OWOsmile.png",
+        "action": true,
+        "action_dialog": ["PC", "Mac"],
+        "sound_trigger": ""
+        },
+
+
+
+
+    "36" : {
+        "name": "OWO",
+        "text":  "\"PC??? Really?! Oh my gosh I love you, almost as much as I love my computer hehe.\"",
+        "id": "36",
+        "top_left_image": "OWOheart.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": "happy"
+        },
+    "37" : {
+        "name": "OWO",
+        "text":  "\"I'm so happy to hear I have something in common with my savior!!",
+        "id": "37",
+        "top_left_image": "OWOheart.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "38" : {
+        "name": "OWO",
+        "text":  "I love my PC because I'm pretty serious about gaming. Thanks again User!\"",
+        "id": "38",
+        "top_left_image": "OWOsmile.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "39" : {
+        "name": "",
+        "text":  "I feel a bit of heat coming to my face. Am I blushing? It's nice to be praised so openly.",
+        "id": "39",
+        "top_left_image": "OWOsmile.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+
+
+
+    "40" : {
+        "name": "OWO",
+        "text":  "\"Mac...? oh I see... well, that's cool. I guess everyone likes something different.",
+        "id": "40",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "41" : {
+        "name": "OWO",
+        "text":  "I like a PC because I'm pretty serious about gaming... It's cool to learn more about you though.\"",
+        "id": "41",
+        "top_left_image": "OWOsmile.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "42" : {
+        "name": "",
+        "text":  "I sense a little bit of disappointment behind that short lasting smile.",
+        "id": "42",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "43" : {
+        "name": "",
+        "text":  "I wonder why it matters to him so much.",
+        "id": "43",
+        "top_left_image": "OWOnormal.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+
+
+
+
+    "44" : {
+        "name": "",
+        "text":  "owo smiles one more time at me before heading off to wherever he's going.",
+        "id": "44",
+        "top_left_image": "OWOsmile.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": "walk"
+        },
+    "45" : {
+        "name": "",
+        "text":  "\"I'll see you around, User!\"",
+        "id": "45",
+        "top_left_image": "OWOsmile.png",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": "door"
+        },
+    "46" : {
+        "name": "",
+        "text":  "Unlikely... I'm lucky to have met two attractive guys today. Unfortunately for me I got neither of their numbers.",
+        "id": "46",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "47" : {
+        "name": "",
+        "text":  "Welp. That's my life for you. I should've gotten used to the idea of dying alone by now. ",
+        "id": "47",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "48" : {
+        "name": "",
+        "text":  "Well... at least I'll have my career",
+        "id": "48",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "49" : {
+        "name": "",
+        "text":  "Two attractive guys tell me they'll see me again... but I don't get their numbers. Way to go User.",
+        "id": "49",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "50" : {
+        "name": "",
+        "text":  "<b><em style=\"font-size:2.0em\">cries inside</em></b>",
+        "id": "50",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "51" : {
+        "name": "",
+        "text":  "I glance at the clock",
+        "id": "51",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        },
+    "52" : {
+        "name": "",
+        "text":  "At least that interaction killed time... I only have one more hour at work before I can start heading to Version Alpha.",
+        "id": "52",
+        "top_left_image": "",
+        "action": false,
+        "action_dialog": [],
+        "sound_trigger": ""
+        }
+}

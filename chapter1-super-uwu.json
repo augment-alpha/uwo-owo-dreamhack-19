@@ -165,7 +165,7 @@
         "name": "???",
         "text":  "<em style=\"font-size:0.7em\">\"mother of god, if this fatty wouldn't have ordered 10 Frappuccinos I would have my damn coffee already\"</em>",
         "id": "18",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -174,7 +174,7 @@
         "name": "",
         "text":  "<em>cell phone ringing<em>",
         "id": "19",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -183,7 +183,7 @@
         "name": "???",
         "text":  "\"dammit I have to take this\"",
         "id": "20",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -192,7 +192,7 @@
         "name": "",
         "text":  "He seems extremely grumpy. ...and he's looking at me.....",
         "id": "21",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -201,7 +201,7 @@
         "name": "???",
         "text":  "\"Hey, you\"",
         "id": "22",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -210,7 +210,7 @@
         "name": "User",
         "text":  "\"Yes?\"",
         "id": "23",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -219,10 +219,10 @@
         "name": "???",
         "text":  "\"Do me a favor. Order my coffee for me.\"",
         "id": "24",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": ""
+        "sound_trigger": "walk"
         },
     "25" : {
         "name": "",
@@ -295,13 +295,13 @@
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": ""
+        "sound_trigger": "walk"
         },
     "33" : {
         "name": "???",
         "text": "\"Hey.\"",
         "id": "33",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -310,7 +310,7 @@
         "name": "",
         "text":  "I hand him the black coffee. He takes a sip.",
         "id": "34",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -319,7 +319,7 @@
         "name": "",
         "text":  "He looks delighted",
         "id": "35",
-        "top_left_image": "",
+        "top_left_image": "UWUheart.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": "happy"
@@ -328,7 +328,7 @@
         "name": "???",
         "text":  "\"Amazing.. you got exactly what I wanted... thanks. You saved me there.\"",
         "id": "36",
-        "top_left_image": "",
+        "top_left_image": "UWUheart.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -337,7 +337,7 @@
         "name": "???",
         "text":  "\"Drinking my coffee is one of my most favorite parts of my day.\"",
         "id": "37",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -346,7 +346,7 @@
         "name": "",
         "text":  "He shows a slight smile...",
         "id": "38",
-        "top_left_image": "",
+        "top_left_image": "UWUsmile.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -355,7 +355,7 @@
         "name": "",
         "text":  "After his grumpy face is wiped off he looks slightly... no wait- <b>really</b> handsome.",
         "id": "39",
-        "top_left_image": "",
+        "top_left_image": "UWUsmile.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -364,7 +364,7 @@
         "name": "User",
         "text":  "\"You're welcome, I'm glad you like it. I just got what I usually order here.\"",
         "id": "40",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -373,7 +373,7 @@
         "name": "",
         "text":  "He smiles again.",
         "id": "41",
-        "top_left_image": "",
+        "top_left_image": "UWUsmile.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -382,7 +382,7 @@
         "name": "",
         "text":  "I get the feeling this is a rare expression from him.",
         "id": "42",
-        "top_left_image": "",
+        "top_left_image": "UWUsmile.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -391,7 +391,7 @@
         "name": "",
         "text":  "I'm glad I was able to make him smile.",
         "id": "43",
-        "top_left_image": "",
+        "top_left_image": "UWUsmile.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -400,7 +400,7 @@
         "name": "???",
         "text":  "\"No kidding? Most people I know don't enjoy the bitterness of a plain americano.\"",
         "id": "44",
-        "top_left_image": "",
+        "top_left_image": "UWUsmile.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -421,16 +421,16 @@
         "name": "",
         "text":  "I'm gonna just walk to the door and... there he is!",
         "id": "46",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": ""
+        "sound_trigger": "door"
         },
     "47" : {
         "name": "???",
         "text":  "\"Hey.\"",
         "id": "47",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -439,7 +439,7 @@
         "name": "",
         "text":  "He glances at the Frappuccino in my hand and looks disgusted",
         "id": "48",
-        "top_left_image": "",
+        "top_left_image": "UWUsad.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -448,7 +448,7 @@
         "name": "",
         "text":  "I'm guessing I chose the wrong drink",
         "id": "49",
-        "top_left_image": "",
+        "top_left_image": "UWUsad.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -457,7 +457,7 @@
         "name": "User",
         "text":  "\"Yes, is something wrong?\"",
         "id": "50",
-        "top_left_image": "",
+        "top_left_image": "UWUsad.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -466,7 +466,7 @@
         "name": "???",
         "text":  "<em style=\"font-size:0.7em\">\"How can anyone start off their day with that much sugar...?\"</em>",
         "id": "51",
-        "top_left_image": "",
+        "top_left_image": "UWUsad.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -475,7 +475,7 @@
         "name": "",
         "text":  "He takes a sip of it and gags",
         "id": "52",
-        "top_left_image": "",
+        "top_left_image": "UWUsad.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -484,7 +484,7 @@
         "name": "???",
         "text":  "\"Jesus no. I can't drink this. I guess I'll just have to go without a coffee for the day\"",
         "id": "53",
-        "top_left_image": "",
+        "top_left_image": "UWUsad.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -493,7 +493,7 @@
         "name": "",
         "text":  "The man tosses the Frappuccino into the garbage and starts to walk out the door",
         "id": "54",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -507,7 +507,7 @@
         "name": "???",
         "text":  "\"Well, see you around... uh, what was your name?\"",
         "id": "55",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -516,7 +516,7 @@
         "name": "UWU",
         "text":  "\"OK. My name is uwu. See you around, User\"",
         "id": "56",
-        "top_left_image": "",
+        "top_left_image": "UWUnormal.png",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
@@ -528,7 +528,7 @@
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": ""
+        "sound_trigger": "walk"
         },
     "58" : {
         "name": "",
@@ -546,6 +546,6 @@
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": ""
+        "sound_trigger": "walk"
         }
 }
