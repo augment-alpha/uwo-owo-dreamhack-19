@@ -11,16 +11,16 @@
     "1" :   {
         "name": "",
         "text": "He doesn't appear to have noticed that I've sat next to him so I suppose it's time to reintroduce myself.",
-        "id": "0",
+        "id": "1",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "2" :   {
-        "name": "",
+        "name": "User",
         "text": "\"H-hey. I suppose I did see you again.\"",
-        "id": "0",
+        "id": "2",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -29,16 +29,16 @@
     "3" :   {
         "name": "",
         "text": "He glances up for a second and then his eyes fall back to his phone immediately.",
-        "id": "0",
+        "id": "3",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "4" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"Oh. Hey <<insert coffee choice here>>-girl.\"",
-        "id": "0",
+        "id": "4",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -47,25 +47,25 @@
     "5" :   {
         "name": "",
         "text": "I blush a bit from the nickname but uwu doesn't appear to have noticed.",
-        "id": "0",
+        "id": "5",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "6" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"I didn't expect to see you here. You're into games?\"",
-        "id": "0",
+        "id": "6",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "7" :   {
-        "name": "",
+        "name": "User",
         "text": "\"Yea I am.. not very popular games though. I'm mainly dating simulators and visual novels.\"",
-        "id": "0",
+        "id": "7",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -74,7 +74,7 @@
     "8" :   {
         "name": "",
         "text": "uwu giggles a bit.",
-        "id": "0",
+        "id": "8",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -83,16 +83,16 @@
     "9" :   {
         "name": "",
         "text": "I hope I didn't weird him out from my preferences.",
-        "id": "0",
+        "id": "9",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "10" :   {
-        "name": "",
+        "name": "User",
         "text": "\"What do you like to play uwu?\"",
-        "id": "0",
+        "id": "10",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -101,16 +101,16 @@
     "11" :   {
         "name": "",
         "text": "uwu looks up at his phone and stares directly at me.",
-        "id": "0",
+        "id": "11",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "12" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"I want you to guess.. what do you think I'm into?\"",
-        "id": "0",
+        "id": "12",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -119,7 +119,7 @@
     "13" :   {
         "name": "",
         "text": "What kind of games do I think uwu plays?",
-        "id": "0",
+        "id": "13",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -131,16 +131,16 @@
     "14" :   {
         "name": "",
         "text": "uwu appears flustered at the choice I made.",
-        "id": "0",
+        "id": "14",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
-        "sound_trigger": ""
+        "sound_trigger": "happy"
         },
     "15" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"N-neko Atsume?! You think I would play a kitty collector game?\"",
-        "id": "0",
+        "id": "15",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -149,7 +149,7 @@
     "16" :   {
         "name": "",
         "text": "uwu turns red but I refuse to budge from my choice. ",
-        "id": "0",
+        "id": "16",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -158,25 +158,25 @@
     "17" :   {
         "name": "",
         "text": "uwu avoids eye contact with me for a few seconds and then returns my gaze.",
-        "id": "0",
+        "id": "17",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "18" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"Since you were honest with me about your game choices I'll do the same.\"",
-        "id": "0",
+        "id": "18",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "19" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"Y-yes you actually got it right.. I play Neko Atsume.. Don't tell anyone ok?\"",
-        "id": "0",
+        "id": "19",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -185,16 +185,16 @@
     "20" :   {
         "name": "",
         "text": "I giggle a bit.",
-        "id": "0",
+        "id": "20",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "21" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"W-why are you laughing?!\"",
-        "id": "0",
+        "id": "21",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -203,25 +203,25 @@
     "22" :   {
         "name": "",
         "text": "uwu is about as red as a tomato now.",
-        "id": "0",
+        "id": "22",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "23" :   {
-        "name": "",
+        "name": "User",
         "text": "\"Didn't you also laugh when I told you my preferences?\"",
-        "id": "0",
+        "id": "23",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "24" :   {
-        "name": "",
+        "name": "User",
         "text": "\"It's just so unexpected uwu. I'm glad we both have a weird taste in games.\"",
-        "id": "0",
+        "id": "24",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -230,25 +230,25 @@
     "25" :   {
         "name": "",
         "text": "uwu appears to have calmed down a bit and he begins to smile.",
-        "id": "0",
+        "id": "25",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "26" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"Thanks for not judging me harshly based on it.\"",
-        "id": "0",
+        "id": "26",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "27" :   {
-        "name": "",
+        "name": "User",
         "text": "\"Oh no, I am judging you. It's a good judgement though uwu.\"",
-        "id": "0",
+        "id": "27",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -257,7 +257,7 @@
     "28" :   {
         "name": "",
         "text": "uwu smiles a wider and proceeds to show me his kitty collection.",
-        "id": "0",
+        "id": "28",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -269,7 +269,7 @@
     "29" :   {
         "name": "",
         "text": "uwu and I decided to team up together for the hackathon.",
-        "id": "0",
+        "id": "29",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -278,25 +278,25 @@
     "30" :   {
         "name": "",
         "text": "We created a cute game which contained kitties, which apparently are a soft spot for uwu.",
-        "id": "0",
+        "id": "30",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "31" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"H-hey. I had a lot of fun creating the game with you. I'm glad you didn't judge me on my taste.\"",
-        "id": "0",
+        "id": "31",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "32" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"It was also comforting when you were so open about yours. On top of that, you know the best coffee. We just seem similar, I would like to hang out more sometime.\"",
-        "id": "0",
+        "id": "32",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -305,25 +305,25 @@
     "33" :   {
         "name": "",
         "text": "Is he going to ask me for my number?!",
-        "id": "0",
+        "id": "33",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "34" :   {
-        "name": "",
+        "name": "User",
         "text": "\"Y-yes I would love to. If you try a visual novel some time then I'll try Neko Atsume.\"",
-        "id": "0",
+        "id": "34",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "35" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"We'll set up a date.\"",
-        "id": "0",
+        "id": "35",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -332,7 +332,7 @@
     "36" :   {
         "name": "",
         "text": "Wow he looked so cool when he said that.",
-        "id": "0",
+        "id": "36",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -341,7 +341,7 @@
     "37" :   {
         "name": "",
         "text": "uwu seems cold at first, but I think he's genuinely a nice guy once he's warmed up a bit.",
-        "id": "0",
+        "id": "37",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -350,16 +350,16 @@
     "38" :   {
         "name": "",
         "text": "I guess I'm an uwu-girl.",
-        "id": "0",
+        "id": "38",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "39" :   {
-        "name": "",
+        "name": "User",
         "text": "\"Y-yes.\"",
-        "id": "0",
+        "id": "39",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -368,25 +368,25 @@
     "40" :   {
         "name": "",
         "text": "I smile",
-        "id": "0",
+        "id": "40",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "41" :   {
-        "name": "",
+        "name": "User",
         "text": "\"I look forward to it uwu. Would you mind taking a photo together? I would like to remember the first game we've created.\"",
-        "id": "0",
+        "id": "41",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
         "sound_trigger": ""
         },
     "42" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"Of course. I do as well.\"",
-        "id": "0",
+        "id": "42",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -395,7 +395,7 @@
     "43" :   {
         "name": "",
         "text": "uwu gets close to me and pulls out the camera",
-        "id": "0",
+        "id": "43",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -405,9 +405,9 @@
 
 
     "44" :   {
-        "name": "",
+        "name": "UWU",
         "text": "\"Fortnite.. that's a pretty generic answer. I'm kind of offended haha. I thought you would come up with something more interesting for me. No I'm not into that game.\"",
-        "id": "0",
+        "id": "44",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -416,7 +416,7 @@
     "45" :   {
         "name": "",
         "text": "Oh.. I guess he really didn't like my answer.",
-        "id": "0",
+        "id": "45",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -425,7 +425,7 @@
     "46" :   {
         "name": "",
         "text": "We spend the rest of the time sitting next together in awkward silence.",
-        "id": "0",
+        "id": "46",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -437,7 +437,7 @@
     "47" :   {
         "name": "",
         "text": "After the team building uwu disappeared.",
-        "id": "0",
+        "id": "47",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -446,7 +446,7 @@
     "48" :   {
         "name": "",
         "text": "I have no clue where he went.",
-        "id": "0",
+        "id": "48",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -455,7 +455,7 @@
     "49" :   {
         "name": "",
         "text": "I didn't make a team with uwu. So I combined forces with some random people.",
-        "id": "0",
+        "id": "49",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -464,7 +464,7 @@
     "50" :   {
         "name": "",
         "text": "We did ok. The hackathon wasn't what I dreamed of, but I'm glad to have gotten more experience in the gaming industry.",
-        "id": "0",
+        "id": "50",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
@@ -473,7 +473,7 @@
     "51" :   {
         "name": "",
         "text": "I didn't really get close to anyone. I guess I'm pretty content with being alone with my computer forever.",
-        "id": "0",
+        "id": "51",
         "top_left_image": "",
         "action": false,
         "action_dialog": [],
